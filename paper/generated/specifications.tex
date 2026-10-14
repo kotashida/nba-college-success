@@ -1,0 +1,20 @@
+\paragraph{Five-year VORP} Regularized linear; college predictors; yeojohnson target.\par {\small\raggedright \texttt{alpha}: 26.0823; \texttt{kind}: ridge.\par}
+\paragraph{Five-year minutes} Equal-weight blend of three separately fitted finalists, averaged on the original outcome scale.
+\begin{itemize}\small\raggedright
+\item CatBoost; engineered predictors; raw target.\par \texttt{depth}: 4; \texttt{iterations}: 150; \texttt{l2\_leaf\_reg}: 50; \texttt{learning\_rate}: 0.1.
+\item Extra Trees; engineered predictors; raw target.\par \texttt{max\_depth}: None; \texttt{max\_features}: 1; \texttt{min\_samples\_leaf}: 10; \texttt{n\_estimators}: 200.
+\item XGBoost; hybrid predictors; raw target.\par \texttt{colsample\_bytree}: 0.8; \texttt{learning\_rate}: 0.1; \texttt{max\_depth}: 3; \texttt{min\_child\_weight}: 5; \texttt{n\_estimators}: 350; \texttt{reg\_lambda}: 20; \texttt{subsample}: 0.85.
+\end{itemize}
+\paragraph{Years active (of five)} Equal-weight blend of three separately fitted finalists, averaged on the original outcome scale.
+\begin{itemize}\small\raggedright
+\item CatBoost; college predictors; raw target.\par \texttt{depth}: 4; \texttt{iterations}: 150; \texttt{l2\_leaf\_reg}: 20; \texttt{learning\_rate}: 0.05.
+\item Regularized linear; engineered predictors; yeojohnson target.\par \texttt{alpha}: 0.801525; \texttt{kind}: elastic; \texttt{l1\_ratio}: 0.1.
+\item Random Forest; engineered predictors; raw target.\par \texttt{max\_depth}: None; \texttt{max\_features}: 0.7; \texttt{min\_samples\_leaf}: 5; \texttt{n\_estimators}: 200.
+\end{itemize}
+\paragraph{Sustained rotation} Equal-weight blend of three separately fitted finalists, averaged on the original outcome scale.
+\begin{itemize}\small\raggedright
+\item LightGBM; engineered predictors; raw target.\par \texttt{learning\_rate}: 0.02; \texttt{min\_child\_samples}: 10; \texttt{n\_estimators}: 350; \texttt{num\_leaves}: 3; \texttt{reg\_lambda}: 5.
+\item CatBoost; engineered predictors; raw target.\par \texttt{depth}: 3; \texttt{iterations}: 150; \texttt{l2\_leaf\_reg}: 50; \texttt{learning\_rate}: 0.05.
+\item Extra Trees; college predictors; raw target.\par \texttt{max\_depth}: 5; \texttt{max\_features}: 1; \texttt{min\_samples\_leaf}: 10; \texttt{n\_estimators}: 200.
+\end{itemize}
+\paragraph{Sustained starter} Extra Trees; hybrid predictors; raw target.\par {\small\raggedright \texttt{max\_depth}: None; \texttt{max\_features}: 0.7; \texttt{min\_samples\_leaf}: 10; \texttt{n\_estimators}: 200.\par}

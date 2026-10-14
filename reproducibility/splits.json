@@ -1,0 +1,162 @@
+[
+  {
+    "origin": 2018,
+    "target": "vorp5",
+    "outer_train_max": 2013,
+    "inner": [
+      {
+        "year": 2013,
+        "train_max": 2008,
+        "n_train": 44,
+        "n_valid": 45
+      }
+    ]
+  },
+  {
+    "origin": 2018,
+    "target": "minutes5",
+    "outer_train_max": 2013,
+    "inner": [
+      {
+        "year": 2013,
+        "train_max": 2008,
+        "n_train": 44,
+        "n_valid": 45
+      }
+    ]
+  },
+  {
+    "origin": 2018,
+    "target": "active5",
+    "outer_train_max": 2013,
+    "inner": [
+      {
+        "year": 2013,
+        "train_max": 2008,
+        "n_train": 44,
+        "n_valid": 45
+      }
+    ]
+  },
+  {
+    "origin": 2018,
+    "target": "rotation5",
+    "outer_train_max": 2013,
+    "inner": [
+      {
+        "year": 2013,
+        "train_max": 2008,
+        "n_train": 44,
+        "n_valid": 45
+      }
+    ]
+  },
+  {
+    "origin": 2018,
+    "target": "starter5",
+    "outer_train_max": 2013,
+    "inner": [
+      {
+        "year": 2013,
+        "train_max": 2008,
+        "n_train": 44,
+        "n_valid": 45
+      }
+    ]
+  },
+  {
+    "origin": 2019,
+    "target": "vorp5",
+    "outer_train_max": 2014,
+    "inner": [
+      {
+        "year": 2013,
+        "train_max": 2008,
+        "n_train": 44,
+        "n_valid": 45
+      },
+      {
+        "year": 2014,
+        "train_max": 2009,
+        "n_train": 89,
+        "n_valid": 46
+      }
+    ]
+  },
+  {
+    "origin": 2019,
+    "target": "minutes5",
+    "outer_train_max": 2014,
+    "inner": [
+      {
+        "year": 2013,
+        "train_max": 2008,
+        "n_train": 44,
+        "n_valid": 45
+      },
+      {
+        "year": 2014,
+        "train_max": 2009,
+        "n_train": 89,
+        "n_valid": 46
+      }
+    ]
+  },
+  {
+    "origin": 2019,
+    "target": "active5",
+    "outer_train_max": 2014,
+    "inner": [
+      {
+        "year": 2013,
+        "train_max": 2008,
+        "n_train": 44,
+        "n_valid": 45
+      },
+      {
+        "year": 2014,
+        "train_max": 2009,
+        "n_train": 89,
+        "n_valid": 46
+      }
+    ]
+  },
+  {
+    "origin": 2019,
+    "target": "rotation5",
+    "outer_train_max": 2014,
+    "inner": [
+      {
+        "year": 2013,
+        "train_max": 2008,
+        "n_train": 44,
+        "n_valid": 45
+      },
+      {
+        "year": 2014,
+        "train_max": 2009,
+        "n_train": 89,
+        "n_valid": 46
+      }
+    ]
+  },
+  {
+    "origin": 2019,
+    "target": "starter5",
+    "outer_train_max": 2014,
+    "inner": [
+      {
+        "year": 2013,
+        "train_max": 2008,
+        "n_train": 44,
+        "n_valid": 45
+      },
+      {
+        "year": 2014,
+        "train_max": 2009,
+        "n_train": 89,
+        "n_valid": 46
+      }
+    ]
+  }
+]

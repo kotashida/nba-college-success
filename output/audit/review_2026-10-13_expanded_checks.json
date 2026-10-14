@@ -1,0 +1,39 @@
+{
+  "review_date": "2026-10-13",
+  "status": "passed",
+  "sealed_files": 203,
+  "test_prediction_groups": 130,
+  "nested_prediction_groups": 90,
+  "selection_prediction_groups": 180,
+  "candidate_origin_target_groups": 15,
+  "candidate_records": 1095,
+  "family_and_feature_finalists": 50,
+  "recorded_inner_temporal_splits": 15,
+  "installed_lock_packages": 44,
+  "python": "3.12.4 | packaged by Anaconda, Inc. | (main, Jun 18 2024, 15:03:56) [MSC v.1929 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "earliest_cohort": {
+    "n": 44,
+    "no_earlier_observed_college_records": 44,
+    "nonfreshmen_without_earlier_records": 33
+  },
+  "selected_continuous_prediction_ranges": {
+    "test/minutes5": {
+      "min": 1318.389965353105,
+      "max": 8771.552841281964
+    },
+    "test/active5": {
+      "min": 2.834418561628032,
+      "max": 4.705499372818779
+    },
+    "nested/minutes5": {
+      "min": 1196.453116102085,
+      "max": 9514.56607127339
+    },
+    "nested/active5": {
+      "min": 2.133011625039841,
+      "max": 5.217220702844531
+    }
+  },
+  "limitations": "Post-evaluation consistency audit of recorded retrospective sources, not independent provider truth, external preregistration, or a new test."
+}

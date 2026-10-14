@@ -1,0 +1,37 @@
+{
+  "research/report.py": {
+    "original_sha256": "2394caee5816b3cd33624bc42c08adf7112bfb8af7d68f0546b26cf5423f6cee",
+    "revised_sha256": "adb7cab88c68e27e538301706987eb2ee278a8207f3ff55a20d4a79c5d014279",
+    "preserved_original": "output/experiments/frozen_publication_code/report.py",
+    "registered_utc": "2026-10-14T03:20:36.254419+00:00",
+    "reason": "October 13 review: publication wording makes the 2020-fitted forest on the 2019 cohort explicitly retrospective and distinguishes it from primary Ridge; grammatical correction. All numerical report calculations, fitting, selection, targets and final evidence are unchanged. Previous amendment preserved in reproducibility/amendment_history/2026-10-10_publication_amendment.json and original project backup."
+  },
+  "research/experiment.py": {
+    "original_sha256": "46122c13b3edfb497f05c699d3986a59a8e9b3adbeb06ef44fddb06fc0271354",
+    "revised_sha256": "3bcf7f2880ef4b7a5c63b53159801ed53b80dfcef00f254e7238b7a24a4adcad",
+    "preserved_original": "output/experiments/frozen_publication_code/experiment.py",
+    "registered_utc": "2026-10-10T21:43:40.388700+00:00",
+    "reason": "Publication tables, formatting and artifact naming; temporary manuscript build with a single source/PDF pair; report verifies frozen evidence before generation. CLI docstring and collector main input-access validation only. Experiment changes are confined to check_freeze, which validates every consumed receipt artifact and rejects missing receipts; every other experiment AST is identical. No changes to predictors, targets, fitting, selection, predictions or scores."
+  },
+  "research/__init__.py": {
+    "original_sha256": "bbdc467fc05700d0f48aa11cfe8f289e20d0c991e12228038e5d98f4476a3063",
+    "revised_sha256": "69323d3d226f89818615b3fa8dd3b5c7669beee565929d8bf844c19a0dd1324a",
+    "preserved_original": "output/experiments/frozen_publication_code/__init__.py",
+    "registered_utc": "2026-10-10T21:43:40.388700+00:00",
+    "reason": "Publication tables, formatting and artifact naming; temporary manuscript build with a single source/PDF pair; report verifies frozen evidence before generation. CLI docstring and collector main input-access validation only. Experiment changes are confined to check_freeze, which validates every consumed receipt artifact and rejects missing receipts; every other experiment AST is identical. No changes to predictors, targets, fitting, selection, predictions or scores."
+  },
+  "run.py": {
+    "original_sha256": "f5de9720ba76b17e7704bcc2efafcdb732564bb6f339eb182a0d72c4412407d8",
+    "revised_sha256": "614e3fd4cfd2a37df5ed3f1a7f2cda48e2ec6ed779c3cb39d89ab05ada0442e4",
+    "preserved_original": "output/experiments/frozen_publication_code/run.py",
+    "registered_utc": "2026-10-10T21:43:40.388700+00:00",
+    "reason": "Publication tables, formatting and artifact naming; temporary manuscript build with a single source/PDF pair; report verifies frozen evidence before generation. CLI docstring and collector main input-access validation only. Experiment changes are confined to check_freeze, which validates every consumed receipt artifact and rejects missing receipts; every other experiment AST is identical. No changes to predictors, targets, fitting, selection, predictions or scores."
+  },
+  "collect.py": {
+    "original_sha256": "f39ba80e88ccd9bda098f4b5e323c0ae9da4e5b71d0e7fd4e8f642513589d6e0",
+    "revised_sha256": "2b4178645c64f29b9460152845351234d3828778b73a741c2a1087e3a24f61e0",
+    "preserved_original": "output/experiments/frozen_publication_code/collect.py",
+    "registered_utc": "2026-10-10T21:43:40.388700+00:00",
+    "reason": "Publication tables, formatting and artifact naming; temporary manuscript build with a single source/PDF pair; report verifies frozen evidence before generation. CLI docstring and collector main input-access validation only. Experiment changes are confined to check_freeze, which validates every consumed receipt artifact and rejects missing receipts; every other experiment AST is identical. No changes to predictors, targets, fitting, selection, predictions or scores."
+  }
+}

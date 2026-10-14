@@ -1,0 +1,54 @@
+# Final independent methods and manuscript assessment
+
+Completed October 13, 2026. This is the second adversarial review by the statistical/methodological reviewer. It follows the initial `METHODS_REVIEW.md`, the implementation of corrections by the coordinating reviewer, and the revised twenty-page manuscript. This reviewer did not change scientific evidence or publication source during the final review. The only file written during this phase is this assessment.
+
+**Disposition: the revised manuscript is defensible as a limited retrospective benchmark with uncertain or negative predictive gains. No further confirmed, locally correctable methods or visual defect remains in the inspected final version. It is not a fully rights-cleared, publicly archived journal-submission package or a validated scouting system.**
+
+## Executed checks
+
+1. Read the revised LaTeX source, result tables, source contract, protocol, main peer-review report, publication amendment, retrospective-seal script, expanded verification script, new ESPN source-audit script, new audit tests, and recorded supplemental checks. Compared the central claims with the original preserved predictions and independent calculations recorded in `METHODS_CHECKS.json`.
+2. Viewed all twenty rendered page PNGs individually at full-page resolution, as well as all four contact sheets. This inspection covers equations, nine figures, cohort and performance tables, frozen specifications, uncertainty and probability metrics, prose, dates, and all twenty bibliography entries.
+3. Found an actual publication-layout defect during this final review: Figure 3's adjacent 2020/2021 x-axis labels overlapped. Reported it to the coordinator. The publication-only labels were rotated 45 degrees, the figures/PDF were regenerated, and the latest page 7 was re-viewed. The labels now remain distinct and legible. Also re-viewed the latest page 16 after its new retrospective-seal disclosure. No clipping, figure/table collision, broken glyph, or additional unreadable label was found.
+4. Independently inspected the final PDF with PyMuPDF: twenty pages; expected title and author metadata; October 13, 2026 revision date; no unresolved reference markers; zero text blocks extending beyond their page rectangle. The compiler-layout record likewise has zero outside-page text issues and only the harmless warning that shell escape is disabled. This reviewer inspected the built output and did not personally execute the compiler.
+5. Independently executed `review_evidence.verify_seal()` twice during this final phase. All **203** protected original evidence-file digests match. This confirms local preservation against the supplied retrospective seal; it does not provide an external timestamp, historical provider availability, or independent authenticity.
+6. Independently recalculated the new ESPN audit's scope from its saved tables: fifteen identities; twelve players with season comparisons; 174 field comparisons; zero disagreements; fifty-eight minutes comparisons; exactly three assumed-nonparticipant identities with no returned NBA regular-season rows.
+7. Verified all **30** cached identity/statistics JSON files against their recorded manifest SHA-256 values.
+8. Independently reparsed the raw ESPN statistics sidecars without invoking `audit_external_sources.season_totals`. For each of the twelve players with data, checked the regular-season filter, limited seasons to the draft-anchored five-season horizon, preferred the explicit provider total row over traded-team stints, independently summed games/starts and rounded-average minutes, and compared these with archived NBA records. All **174** comparisons pass. The returned season sets equal the archived season sets within the window for all twelve players. All minutes differences fit the strict one-decimal rounding half-width, `0.05 × games`, not merely the audit script's slightly wider numerical allowance. These are transcription/source-consistency checks; they do not validate VORP or certify absence for the three empty responses.
+
+Final inspected PDF SHA-256:
+
+`527822ddda16c3b22dfbc8e3b39a54ae99bbc3a8e3e4af3c0f592b651edd93de`
+
+The original-phase methods script independently recomputed ten selected/constant pooled squared-error groups, with regression RMSE, MAE and R-squared also checked. Those numerical results remain consistent with the revised printed values. The final-phase 203-file seal confirms the original scientific inputs/results were not changed. Full suite execution, all model refits, all raw outcome reconstruction, all bootstrap replay, and package-build verification belong to the coordinating reproducibility workflow; this assessment does not claim to have personally executed those tasks.
+
+## Resolution of original methods findings
+
+| Initial finding | Final assessment |
+|---|---|
+| Historical metric release versus completed sporting follow-up | Corrected. Introduction and methods explicitly distinguish the clocks. Limitations report original BPM's 2014 release and February 2020 version 2.0, while retaining uncertainty about the cache's exact metric version and college-field vintages. Literal contemporaneous historical deployment is not claimed. |
+| Twelve eligible same-school naming variants omitted by the frozen normalization policy | Correctly disclosed as post-evaluation ascertainment evidence. All twelve remain outside the unchanged 663-player sample, and their eventual-pick agreement is corroboration only. No revised training pool, retuning, replacement winner, or improved score is implied. |
+| Strong prespecification wording | Corrected. The paper describes fixed definitions in the frozen code, not independently certified prefit specification or public preregistration. Actual October 9, 2026 execution times are distinguished from simulated 2020/2021 forecast origins. The old mask-timing wording in DATA/PROTOCOL was also qualified. |
+| Earlier archive histories truncated at 2008 | Corrected. The paper and contract identify all 44 earliest players without earlier observed records, including 33 nonfreshmen. Zero observed history is not interpreted as zero prior college experience. |
+| Assumed zeros and unresolved professional identities | Appropriately retained as uncertainty. Forty-one no-record assumptions and four ambiguous/conflicting identities remain disclosed. Empty ESPN responses are not promoted to proof of nonparticipation. |
+| Unconstrained service regressions | Corrected in reporting. The bounded count label is distinguished from continuous forecasts, including the selected nested prediction above five. Frozen predictions remain unclipped; a bounded method requires a separately declared evaluation. |
+| Diagnostic forest fitted at 2020 but explained on 2019 players | Corrected. It is explicitly a retrospective explanation, with asinh-scale SHAP, separate from primary Ridge and chronological validation. Different players alone are not misrepresented as a valid 2019-origin forecast. |
+| Development records absent from original integrity freeze | Supplemental protection now exists. The October 13 seal binds the supplied logs/splits without rewriting the original freeze and is candidly retrospective. |
+| Incorrect manuscript date and obsolete archive navigation | Corrected. The final revision date is October 13, 2026. Current navigation identifies the active manuscript; earlier evidence remains historical. |
+
+The printed source-verification statement is accurate: original 35 convenience checks plus a separate post-evaluation audit of 174 season-field comparisons on twelve of fifteen selected identities. These figures are not described as a representative population audit or independent VORP verification. The source-audit parser's initial traded-total mistake remains documented as a new audit-parser error, not a change to the original experiment.
+
+## Statistical conclusions
+
+The abstract, primary results, discussion and conclusion preserve the unfavorable VORP RMSE and starter Brier comparisons. Lower VORP MAE and positive ranking correlation are not used to reverse the primary squared-error conclusion. Favorable minutes/active/rotation point estimates remain described as modest and uncertain. All five paired intervals include zero, and the manuscript does not infer significance, equivalence or reliable future-era superiority from that fact.
+
+Development, nested diagnostics and frozen evaluation remain separated. Supplementary models are not promoted by final-test ranking. The actual draft-order benchmark is identified as later information and opportunity-allocation evidence, not an admissible pre-selection feature or proof of talent identification. Feature-group finalists remain separately tuned procedures, not controlled marginal-feature or causal effects.
+
+The five-season outcome equations, chronological fitting/tuning inequalities, target transformations, loss units, conditional bootstrap interpretation, and displayed sample counts are consistent with the preserved implementation and evidence. The all-family table includes different apparent winners without changing the primary frozen selection. Probability metrics preserve the distinction between discrimination and calibration. SHAP/permutation captions preserve their target scales and model-specific retrospective status.
+
+## Remaining limitations
+
+The revision cannot establish complete NCAA ascertainment, reliable independent absence verification for all 41 assumed zeros, independent accuracy of VORP or every predictor, exact historical provider snapshots, or broader future-era performance with two test cohorts. The convenient source and identity checks improve inspectability without resolving those inferential limits. No stronger claim should be added on the strength of the 174 checks or the 203-file seal.
+
+The required snapshots/models are not supplied by a code-only Git clone. A persistent accessible replication deposit and provider permissions remain open, along with any venue-specific author affiliation, funding, conflict and assistance declarations. Ten unavailable cloud-only legacy files were documented by the coordinator; this reviewer did not access or verify them. Clean dependency installation and other-platform reproducibility are not established by the current installed environment.
+
+Any broader matching policy, additional history, metric-vintage reconstruction, bounded service model, probability calibration, or altered selection procedure requires a separately declared research cycle and genuinely unused mature evaluation. The consumed 2020–2021 results remain unsuitable for choosing those changes. The final product is a substantially clearer and more defensible retrospective benchmark, with unresolved publication prerequisites explicitly recorded rather than represented as completed.

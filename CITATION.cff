@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying research paper when using this work."
+type: software
+title: "NBA College Success"
+version: 1.0.0
+authors:
+  - family-names: "Shida"
+    given-names: "Kota"
+preferred-citation:
+  type: unpublished
+  title: "Forecasting Five-Year NBA Value and Participation Among NCAA Draftees: Chronological Validation of College and Combine Predictors"
+  authors:
+    - family-names: "Shida"
+      given-names: "Kota"
+  year: 2026

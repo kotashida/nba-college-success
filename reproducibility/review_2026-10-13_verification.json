@@ -1,0 +1,169 @@
+{
+  "review_date": "2026-10-13",
+  "environment": {
+    "python": "3.12.4 | packaged by Anaconda, Inc. | (main, Jun 18 2024, 15:03:56) [MSC v.1929 64 bit (AMD64)]",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "installed_lock_packages": 44
+  },
+  "tests": {
+    "passed": 43,
+    "skipped": 0,
+    "log": "output/audit/review_2026-10-13_tests.log"
+  },
+  "retrospective_seal_files": 203,
+  "numerical_audit": {
+    "status": "passed",
+    "target_field_checks": 3315,
+    "test_metric_rows": 195,
+    "frozen_model_cohort_checks": 130,
+    "nested_metric_rows": 90,
+    "nested_metric_max_absolute_differences": {
+      "n": 0.0,
+      "loss": 1.0170371456119653e-07,
+      "rmse": 4.3724371678877105e-08,
+      "mae": 3.1626954388741524e-08,
+      "r2": 9.491637438518996e-08,
+      "spearman": 5.551115123125783e-17,
+      "brier": 2.778214758247799e-08,
+      "log_loss": 5.8001965785869913e-08,
+      "auc": 0.0,
+      "ap": 5.551115123125783e-17,
+      "prevalence": 5.551115123125783e-17
+    },
+    "max_prediction_difference": 2.7284841053187847e-12,
+    "bootstrap_targets": 5,
+    "trial_evaluations": 1095,
+    "disqualified_trials": 0,
+    "protected_hashes": {
+      "freeze.json": "21993370b7333d476f37b8d3808c345bb3935f249f119f3872395be89ae793f6",
+      "test_receipt.json": "caa133b8d5d0f868a9438ca5aa4c7e2a29e87c60173e0fdbe797b65074bd6f52",
+      "test_predictions.csv": "abf8caffca40c878313b7c42d544659e23ffd2a2272726e422ca380fa61a597b",
+      "test_scores.csv": "6107c831a434af5c9016aaf5fa4738f16084f33a9c74e3b41f000d68bbbb5496",
+      "test_summary.json": "d6957ea22169f8dc983f024b702863ad94dbb2daa110238901447690c0ff5658"
+    },
+    "limitations": "Recalculation from recorded snapshots verifies implementation consistency, not provider truth or historical point-in-time availability. No tuning performed."
+  },
+  "expanded_coverage": {
+    "review_date": "2026-10-13",
+    "status": "passed",
+    "sealed_files": 203,
+    "test_prediction_groups": 130,
+    "nested_prediction_groups": 90,
+    "selection_prediction_groups": 180,
+    "candidate_origin_target_groups": 15,
+    "candidate_records": 1095,
+    "family_and_feature_finalists": 50,
+    "recorded_inner_temporal_splits": 15,
+    "installed_lock_packages": 44,
+    "python": "3.12.4 | packaged by Anaconda, Inc. | (main, Jun 18 2024, 15:03:56) [MSC v.1929 64 bit (AMD64)]",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "earliest_cohort": {
+      "n": 44,
+      "no_earlier_observed_college_records": 44,
+      "nonfreshmen_without_earlier_records": 33
+    },
+    "selected_continuous_prediction_ranges": {
+      "test/minutes5": {
+        "min": 1318.389965353105,
+        "max": 8771.552841281964
+      },
+      "test/active5": {
+        "min": 2.834418561628032,
+        "max": 4.705499372818779
+      },
+      "nested/minutes5": {
+        "min": 1196.453116102085,
+        "max": 9514.56607127339
+      },
+      "nested/active5": {
+        "min": 2.133011625039841,
+        "max": 5.217220702844531
+      }
+    },
+    "limitations": "Post-evaluation consistency audit of recorded retrospective sources, not independent provider truth, external preregistration, or a new test."
+  },
+  "external_source_audit": {
+    "review_date": "2026-10-13",
+    "sample_policy": "Post hoc source audit across 2018-2021, high/modest/low service, trades and the three final-test assumed nonparticipants; no fitting or performance changes.",
+    "sample_players": 15,
+    "identity_confirmed": 15,
+    "comparison_players": 12,
+    "season_field_comparisons": 174,
+    "disagreements": 0,
+    "unresolved_identities": [],
+    "limitations": "No independent VORP validation. One-decimal averages give only rounding-bounded MP checks. Missing/empty NBA endpoints are not proof of no NBA appearances. Does not establish historical source vintages or full-population accuracy."
+  },
+  "selected_refits": {
+    "source_code_model_hashes": "passed",
+    "receipt": "passed",
+    "independent_refits": [
+      {
+        "target": "vorp5",
+        "year": 2020,
+        "max_difference": 1.7763568394002505e-15
+      },
+      {
+        "target": "vorp5",
+        "year": 2021,
+        "max_difference": 4.440892098500626e-16
+      },
+      {
+        "target": "minutes5",
+        "year": 2020,
+        "max_difference": 1.8189894035458565e-12
+      },
+      {
+        "target": "minutes5",
+        "year": 2021,
+        "max_difference": 1.8189894035458565e-12
+      },
+      {
+        "target": "active5",
+        "year": 2020,
+        "max_difference": 8.881784197001252e-16
+      },
+      {
+        "target": "active5",
+        "year": 2021,
+        "max_difference": 8.881784197001252e-16
+      },
+      {
+        "target": "rotation5",
+        "year": 2020,
+        "max_difference": 5.551115123125783e-17
+      },
+      {
+        "target": "rotation5",
+        "year": 2021,
+        "max_difference": 2.220446049250313e-16
+      },
+      {
+        "target": "starter5",
+        "year": 2020,
+        "max_difference": 1.6653345369377348e-16
+      },
+      {
+        "target": "starter5",
+        "year": 2021,
+        "max_difference": 1.6653345369377348e-16
+      }
+    ]
+  },
+  "layout": {
+    "pages": 20,
+    "outside_page_text": [],
+    "latex_warnings": [
+      "Package epstopdf Warning: Shell escape feature is not enabled."
+    ]
+  },
+  "paper_sha256": "527822ddda16c3b22dfbc8e3b39a54ae99bbc3a8e3e4af3c0f592b651edd93de",
+  "backup": {
+    "readable_files": 19343,
+    "missing_legacy_files": 10,
+    "unavailable_legacy_bytes": 422010332,
+    "manifest": "backups/pre_review_2026-10-13/manifest.json"
+  },
+  "new_model_selection": false,
+  "original_evaluation_changed": false,
+  "limitations": "Retrospective local consistency, tested existing Windows environment and limited independent transcription audit; source-vintage truth, complete identity verification and public rights-cleared archive remain unresolved."
+}

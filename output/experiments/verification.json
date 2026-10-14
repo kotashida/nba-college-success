@@ -1,0 +1,56 @@
+{
+  "source_code_model_hashes": "passed",
+  "receipt": "passed",
+  "independent_refits": [
+    {
+      "target": "vorp5",
+      "year": 2020,
+      "max_difference": 1.7763568394002505e-15
+    },
+    {
+      "target": "vorp5",
+      "year": 2021,
+      "max_difference": 4.440892098500626e-16
+    },
+    {
+      "target": "minutes5",
+      "year": 2020,
+      "max_difference": 1.8189894035458565e-12
+    },
+    {
+      "target": "minutes5",
+      "year": 2021,
+      "max_difference": 1.8189894035458565e-12
+    },
+    {
+      "target": "active5",
+      "year": 2020,
+      "max_difference": 8.881784197001252e-16
+    },
+    {
+      "target": "active5",
+      "year": 2021,
+      "max_difference": 8.881784197001252e-16
+    },
+    {
+      "target": "rotation5",
+      "year": 2020,
+      "max_difference": 5.551115123125783e-17
+    },
+    {
+      "target": "rotation5",
+      "year": 2021,
+      "max_difference": 2.220446049250313e-16
+    },
+    {
+      "target": "starter5",
+      "year": 2020,
+      "max_difference": 1.6653345369377348e-16
+    },
+    {
+      "target": "starter5",
+      "year": 2021,
+      "max_difference": 1.6653345369377348e-16
+    }
+  ]
+}

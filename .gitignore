@@ -1,0 +1,114 @@
+# Public academic-review package. Root contents are deliberately curated.
+# Licensing/access limitations are documented in docs/PUBLIC_REVIEW.md.
+/*
+!/.gitattributes
+!/.gitignore
+!/CITATION.cff
+!/config.json
+!/README.md
+!/pyproject.toml
+!/pytest.ini
+!/requirements.txt
+!/requirements-lock.txt
+!/*.py
+!/research/
+!/tests/
+!/paper/
+!/docs/
+!/reproducibility/
+!/data/
+!/output/
+
+# Provider snapshots and full processed copies require redistribution permission.
+# Keep provenance, the MIT-licensed schema reference, and authored audit evidence.
+/data/raw/*
+!/data/raw/manifest.json
+!/data/raw/source_quality_policy.json
+!/data/raw/college_schema_reference.R
+/data/processed/*
+!/data/processed/audit.json
+!/data/processed/independent_checks.json
+!/data/processed/independent_source_checks.csv
+!/data/processed/identity_links.csv
+!/data/processed/exclusions.csv
+
+# Retain the frozen experiment, including models, predictions, logs and receipts.
+# Duplicate figures, forward deployment refits and private ZIPs stay local.
+/output/*
+!/output/RESULTS.md
+!/output/experiments/
+!/output/audit/
+/output/experiments/*
+!/output/experiments/*.csv
+!/output/experiments/*.json
+!/output/experiments/*.jsonl
+!/output/experiments/models/
+!/output/experiments/frozen_publication_code/
+/output/experiments/models/*
+!/output/experiments/models/*.joblib
+/output/experiments/frozen_publication_code/*
+!/output/experiments/frozen_publication_code/*.py
+
+# Concise verification evidence, without execution transcripts or provider JSON.
+/output/audit/*
+!/output/audit/verification.json
+!/output/audit/paper_layout_checks.json
+!/output/audit/review_2026-10-13_expanded_checks.json
+!/output/audit/review_2026-10-13_external_sources/
+/output/audit/review_2026-10-13_external_sources/*
+!/output/audit/review_2026-10-13_external_sources/manifest.json
+!/output/audit/review_2026-10-13_external_sources/summary.json
+!/output/audit/review_2026-10-13_external_sources/comparisons.csv
+!/output/audit/review_2026-10-13_external_sources/identities.csv
+
+# Keep scientific review/correction history, not process diaries/private inventories.
+/docs/review_2026-10-13/PROGRESS.md
+/reproducibility/review_2026-10-13_inventory.json
+
+# Python environments, caches, editor files and OS metadata at any depth.
+.venv/
+venv/
+env/
+ENV/
+.conda/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+build/
+dist/
+.ipynb_checkpoints/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
+.env
+.env.*
+!.env.example
+
+# Transient builds and backups. No blanket scientific CSV/JSON/model/PDF ban.
+*.log
+*.tmp
+*.bak
+*.zip
+*.tar.gz
+/paper/*.aux
+/paper/*.out
+/paper/*.toc
+/paper/*.fls
+/paper/*.fdb_latexmk
+/paper/*.synctex.gz
+/paper/main.pdf
+/paper/page_*.png
+/paper/contact_*.png
+.Rhistory
+.RData
+.Rproj.user/

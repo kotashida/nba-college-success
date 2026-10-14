@@ -1,0 +1,13 @@
+{
+  "masked_college_fields": [
+    {
+      "player": "Cade Cunningham",
+      "season": 2021,
+      "field": "pts",
+      "archive_value": 20.2222,
+      "espn_value": 20.1,
+      "evidence": "espn_college_4432166.json, regular-season averages, year 2021",
+      "decision": "Provider disagreement exceeds rounding tolerance; preserve raw sources and mask this predictor before model development."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "checks": 35,
+  "disagreements": 0,
+  "masked_discrepancies": 1,
+  "college_checks": 15,
+  "nba_checks": 20,
+  "limitations": "Convenience sample only. Agreement between college copies is not independent verification. ESPN does not publish VORP."
+}

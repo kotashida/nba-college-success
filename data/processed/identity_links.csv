@@ -1,0 +1,664 @@
+player,draft_year,espn_school,college_school,college_season,college_id,nba_id,outcome_link
+Derrick Rose,2008,Memphis,Memphis,2008,3472,rosede01,unique NBA name
+Michael Beasley,2008,Kansas State,Kansas St.,2008,2865,beaslmi01,unique NBA name
+O.J. Mayo,2008,USC,USC,2008,4054,mayooj01,unique NBA name
+Russell Westbrook,2008,UCLA,UCLA,2008,2935,westbru01,unique NBA name
+Kevin Love,2008,UCLA,UCLA,2008,3038,loveke01,unique NBA name
+Eric Gordon,2008,Indiana,Indiana,2008,1375,gordoer01,unique NBA name
+Joe Alexander,2008,West Virginia,West Virginia,2008,2196,alexajo01,unique NBA name
+D.J. Augustin,2008,Texas,Texas,2008,563,augusdj01,unique NBA name
+Brook  Lopez,2008,Stanford,Stanford,2008,1417,lopezbr01,unique NBA name
+Jerryd Bayless,2008,Arizona,Arizona,2008,2874,bayleje01,unique NBA name
+Jason Thompson,2008,Rider,Rider,2008,1725,thompja02,unique NBA name
+Brandon  Rush,2008,Kansas,Kansas,2008,3008,rushbr01,unique NBA name
+Anthony Randolph,2008,LSU,LSU,2008,322,randoan01,unique NBA name
+Robin  Lopez,2008,Stanford,Stanford,2008,1424,lopezro01,unique NBA name
+Marreese Speights ,2008,Florida,Florida,2008,1557,speigma01,unique NBA name
+Roy Hibbert,2008,Georgetown,Georgetown,2008,3031,hibbero01,unique NBA name
+JaVale McGee,2008,Nevada,Nevada,2008,2783,mcgeeja01,unique NBA name
+Ryan Anderson,2008,California,California,2008,3511,anderry01,unique NBA name
+Courtney Lee,2008,Western Kentucky,Western Kentucky,2008,2917,leeco01,unique NBA name
+Kosta Koufos,2008,Ohio State,Ohio St.,2008,1927,koufoko01,unique NBA name
+George Hill,2008,IU Indianapolis,IUPUI,2008,1839,hillge01,unique NBA name
+Darrell Arthur,2008,Kansas,Kansas,2008,1483,arthuda01,unique NBA name
+Donte Greene,2008,Syracuse,Syracuse,2008,1036,greendo01,unique NBA name
+D.J. White,2008,Indiana,Indiana,2008,2074,whitedj01,unique NBA name
+Walter  Sharpe,2008,UAB,UAB,2008,631,sharpwa01,unique NBA name
+Joey Dorsey,2008,Memphis,Memphis,2008,3147,dorsejo01,unique NBA name
+Mario  Chalmers,2008,Kansas,Kansas,2008,2602,chalmma01,unique NBA name
+DeAndre Jordan,2008,Texas A&M,Texas A&M,2008,3116,jordade01,unique NBA name
+Kyle Weaver,2008,Washington State,Washington St.,2008,375,weaveky01,unique NBA name
+Sonny Weems,2008,Arkansas,Arkansas,2008,3690,weemsso01,unique NBA name
+Chris Douglas-Roberts,2008,Memphis,Memphis,2008,171,douglch01,unique NBA name
+Sean Singletary,2008,Virginia,Virginia,2008,2845,singlse01,unique NBA name
+Trent  Plaisted,2008,BYU,BYU,2008,1309,,no NBA record; assumed zero
+Bill Walker,2008,Kansas State,Kansas St.,2008,49712,walkebi01,unique NBA name
+Malik Hairston,2008,Oregon,Oregon,2008,98,hairsma01,unique NBA name
+Richard Hendrix,2008,Alabama,Alabama,2008,65,,no NBA record; assumed zero
+DeVon Hardin,2008,California,California,2008,300,,no NBA record; assumed zero
+Shan Foster,2008,Vanderbilt,Vanderbilt,2008,3931,,no NBA record; assumed zero
+Darnell Jackson,2008,Kansas,Kansas,2008,1849,jacksda01,unique NBA name
+Maarty Leunen,2008,Oregon,Oregon,2008,94,,no NBA record; assumed zero
+Sasha Kaun,2008,Kansas,Kansas,2008,1841,kaunsa01,unique NBA name
+James Gist,2008,Maryland,Maryland,2008,890,,no NBA record; assumed zero
+Joe  Crawford,2008,Kentucky,Kentucky,2008,3924,crawfjo01,unique NBA name
+Deron Washington,2008,Virginia Tech,Virginia Tech,2008,2990,,no NBA record; assumed zero
+Blake Griffin,2009,Oklahoma,Oklahoma,2009,2804,griffbl01,unique NBA name
+Hasheem Thabeet,2009,UConn,Connecticut,2009,2709,thabeha01,unique NBA name
+James Harden,2009,Arizona State,Arizona St.,2009,3638,hardeja01,unique NBA name
+Tyreke Evans,2009,Memphis,Memphis,2009,9524,evansty01,unique NBA name
+Jonny Flynn,2009,Syracuse,Syracuse,2009,2115,flynnjo01,unique NBA name
+Stephen  Curry,2009,Davidson,Davidson,2009,1827,curryst01,unique NBA name
+Jordan Hill,2009,Arizona,Arizona,2009,215,hilljo01,unique NBA name
+DeMar DeRozan,2009,USC,USC,2009,5417,derozde01,unique NBA name
+Terrence Williams,2009,Louisville,Louisville,2009,2178,willite01,unique NBA name
+Gerald Henderson,2009,Duke,Duke,2009,2016,hendege02,unique NBA name
+Tyler Hansbrough,2009,North Carolina,North Carolina,2009,895,hansbty01,unique NBA name
+Earl Clark,2009,Louisville,Louisville,2009,365,clarkea01,unique NBA name
+Austin Daye,2009,Gonzaga,Gonzaga,2009,2742,dayeau01,unique NBA name
+James Johnson,2009,Wake Forest,Wake Forest,2009,1634,johnsja01,unique NBA name
+Jrue Holiday,2009,UCLA,UCLA,2009,5415,holidjr01,unique NBA name
+Ty Lawson,2009,North Carolina,North Carolina,2009,2335,lawsoty01,unique NBA name
+Jeff Teague,2009,Wake Forest,Wake Forest,2009,1633,teaguje01,unique NBA name
+Eric Maynor,2009,VCU,VCU,2009,295,maynoer01,unique NBA name
+Darren  Collison,2009,UCLA,UCLA,2009,2332,collida01,unique NBA name
+Taj Gibson,2009,USC,USC,2009,1132,gibsota01,unique NBA name
+DeMarre Carroll,2009,Missouri,Missouri,2009,2446,carrode01,unique NBA name
+Wayne Ellington,2009,North Carolina,North Carolina,2009,2343,ellinwa01,unique NBA name
+Toney Douglas,2009,Florida State,Florida St.,2009,3607,douglto01,unique NBA name
+Jermaine Taylor,2009,UCF,UCF,2009,495,tayloje02,unique NBA name
+Dante Cunningham,2009,Villanova,Villanova,2009,448,cunnida01,unique NBA name
+DaJuan Summers,2009,Georgetown,Georgetown,2009,1575,summeda01,unique NBA name
+Sam Young,2009,Pittsburgh,Pittsburgh,2009,2503,youngsa01,unique NBA name
+DeJuan Blair,2009,Pittsburgh,Pittsburgh,2009,1313,blairde01,unique NBA name
+Jon Brockman,2009,Washington,Washington,2009,2266,brockjo01,unique NBA name
+Derrick Brown,2009,Xavier,Xavier,2009,709,brownde04,unique NBA name
+Jodie Meeks,2009,Kentucky,Kentucky,2009,3812,meeksjo01,unique NBA name
+Marcus Thornton,2009,LSU,LSU,2009,3395,thornma01,unique NBA name
+Chase  Budinger,2009,Arizona,Arizona,2009,217,budinch01,unique NBA name
+Nick Calathes,2009,Florida,Florida,2009,3427,calatni01,unique NBA name
+Danny Green,2009,North Carolina,North Carolina,2009,900,greenda02,unique NBA name
+Taylor Griffin,2009,Oklahoma,Oklahoma,2009,3787,griffta01,unique NBA name
+Goran Suton,2009,Michigan State,Michigan St.,2009,603,,no NBA record; assumed zero
+Jack McClinton,2009,Miami,Miami FL,2009,1188,,no NBA record; assumed zero
+A.J.  Price,2009,UConn,Connecticut,2009,25744,priceaj01,unique NBA name
+Robert Vaden,2009,UAB,UAB,2009,2073,,no NBA record; assumed zero
+Patrick Mills,2009,Saint Mary's,Saint Mary's,2009,49733,millspa02,unique NBA name
+Ahmad Nivins,2009,Saint Joseph's,Saint Joseph's,2009,3344,,no NBA record; assumed zero
+Lester Hudson,2009,UT Martin,Tennessee Martin,2009,1026,hudsole01,unique NBA name
+Chinemelu Elonu,2009,Texas A&M,Texas A&M,2009,1103,,no NBA record; assumed zero
+Robert Dozier,2009,Memphis,Memphis,2009,2746,,no NBA record; assumed zero
+John Wall,2010,Kentucky,Kentucky,2010,12637,walljo01,unique NBA name
+Evan Turner,2010,Ohio State,Ohio St.,2010,1929,turneev01,unique NBA name
+Derrick Favors,2010,Georgia Tech,Georgia Tech,2010,10724,favorde01,unique NBA name
+DeMarcus Cousins,2010,Kentucky,Kentucky,2010,13656,couside01,unique NBA name
+Ekpe Udoh,2010,Baylor,Baylor,2010,2610,udohek01,unique NBA name
+Greg Monroe,2010,Georgetown,Georgetown,2010,5531,monrogr01,unique NBA name
+Al-Farouq Aminu,2010,Wake Forest,Wake Forest,2010,5612,aminual01,unique NBA name
+Gordon Hayward,2010,Butler,Butler,2010,6696,haywago01,unique NBA name
+Paul George,2010,Fresno State,Fresno St.,2010,5903,georgpa01,unique NBA name
+Cole Aldrich,2010,Kansas,Kansas,2010,763,aldrico01,unique NBA name
+Xavier Henry,2010,Kansas,Kansas,2010,10527,henryxa01,unique NBA name
+Ed Davis,2010,North Carolina,North Carolina,2010,6808,davised01,unique NBA name
+Patrick Patterson,2010,Kentucky,Kentucky,2010,3715,pattepa01,unique NBA name
+Larry Sanders,2010,VCU,VCU,2010,3246,sandela01,unique NBA name
+Luke Babbitt,2010,Nevada,Nevada,2010,6121,babbilu01,unique NBA name
+Eric Bledsoe,2010,Kentucky,Kentucky,2010,12621,bledser01,unique NBA name
+Avery Bradley,2010,Texas,Texas,2010,12555,bradlav01,unique NBA name
+James Anderson,2010,Oklahoma State,Oklahoma St.,2010,2812,anderja01,unique NBA name
+Craig Brackins,2010,Iowa State,Iowa St.,2010,3689,brackcr01,unique NBA name
+Elliot Williams,2010,Memphis,Memphis,2010,11987,williel01,unique NBA name
+Trevor Booker,2010,Clemson,Clemson,2010,2429,booketr01,unique NBA name
+Damion James,2010,Texas,Texas,2010,825,jamesda01,unique NBA name
+Dominique Jones,2010,South Florida,South Florida,2010,2231,jonesdo02,unique NBA name
+Quincy Pondexter,2010,Washington,Washington,2010,3829,pondequ01,unique NBA name
+Jordan Crawford,2010,Xavier,Xavier,2010,1345,crawfjo02,unique NBA name
+Greivis  Vasquez,2010,Maryland,Maryland,2010,465,vasqugr01,unique NBA name
+Daniel Orton,2010,Kentucky,Kentucky,2010,12620,ortonda01,unique NBA name
+Lazar Hayward,2010,Marquette,Marquette,2010,1257,haywala01,unique NBA name
+Dexter Pittman,2010,Texas,Texas,2010,827,pittmde01,unique NBA name
+Hassan Whiteside,2010,Marshall,Marshall,2010,11351,whiteha01,unique NBA name
+Armon Johnson,2010,Nevada,Nevada,2010,4048,johnsar02,unique NBA name
+Terrico White,2010,Ole Miss,Mississippi,2010,5069,,no NBA record; assumed zero
+Darington Hobson,2010,New Mexico,New Mexico,2010,11344,hobsoda01,unique NBA name
+Andy Rautins,2010,Syracuse,Syracuse,2010,10094,rautian01,unique NBA name
+Landry Fields,2010,Stanford,Stanford,2010,1416,fieldla01,unique NBA name
+Lance Stephenson,2010,Cincinnati,Cincinnati,2010,13349,stephla01,unique NBA name
+Jarvis Varnado,2010,Mississippi State,Mississippi St.,2010,3685,varnaja01,unique NBA name
+Da'Sean Butler,2010,West Virginia,West Virginia,2010,3069,,no NBA record; assumed zero
+Devin Ebanks,2010,West Virginia,West Virginia,2010,9704,ebankde01,unique NBA name
+Jerome Jordan,2010,Tulsa,Tulsa,2010,11309,jordaje01,unique NBA name
+Gani Lawal,2010,Georgia Tech,Georgia Tech,2010,3459,lawalga01,unique NBA name
+Solomon Alabi,2010,Florida State,Florida St.,2010,1924,alabiso01,unique NBA name
+Magnum Rolle,2010,Louisiana Tech,Louisiana Tech,2010,4861,,no NBA record; assumed zero
+Luke Harangody,2010,Notre Dame,Notre Dame,2010,3225,haranlu01,unique NBA name
+Willie Warren,2010,Oklahoma,Oklahoma,2010,7409,warrewi01,unique NBA name
+Jeremy  Evans,2010,Western Kentucky,Western Kentucky,2010,331,evansje01,unique NBA name
+Hamady N'diaye,2010,Rutgers,Rutgers,2010,13308,ndiayha01,unique NBA name
+Ryan Reid,2010,Florida State,Florida St.,2010,193,reidry01,unique NBA name
+Derrick  Caracter,2010,UTEP,UTEP,2010,359,caracde01,unique NBA name
+Stanley Robinson,2010,UConn,Connecticut,2010,1137,,no NBA record; assumed zero
+Dwayne Collins,2010,Miami,Miami FL,2010,2387,,no NBA record; assumed zero
+Kyrie Irving,2011,Duke,Duke,2011,18579,irvinky01,unique NBA name
+Derrick Williams,2011,Arizona,Arizona,2011,12660,willide02,unique NBA name
+Tristan Thompson,2011,Texas,Texas,2011,16072,thomptr01,unique NBA name
+Brandon  Knight,2011,Kentucky,Kentucky,2011,18154,knighbr03,unique NBA name
+Kemba Walker,2011,UConn,Connecticut,2011,9075,walkeke02,unique NBA name
+Jimmer Fredette,2011,BYU,BYU,2011,3137,fredeji01,unique NBA name
+Klay Thompson,2011,Washington State,Washington St.,2011,8716,thompkl01,unique NBA name
+Alec Burks,2011,Colorado,Colorado,2011,14778,burksal01,unique NBA name
+Markieff Morris,2011,Kansas,Kansas,2011,4369,morrima02,unique NBA name
+Marcus Morris,2011,Kansas,Kansas,2011,8822,morrima03,unique NBA name
+Kawhi Leonard,2011,San Diego State,San Diego St.,2011,13395,leonaka01,unique NBA name
+Nikola Vucevic,2011,USC,USC,2011,5408,vucevni01,unique NBA name
+Iman Shumpert,2011,Georgia Tech,Georgia Tech,2011,7189,shumpim01,unique NBA name
+Chris Singleton,2011,Florida State,Florida St.,2011,7190,singlch01,unique NBA name
+Tobias Harris,2011,Tennessee,Tennessee,2011,16657,harrito02,unique NBA name
+Nolan Smith,2011,Duke,Duke,2011,198,smithno01,unique NBA name
+Kenneth Faried,2011,Morehead State,Morehead St.,2011,1626,farieke01,unique NBA name
+Reggie Jackson,2011,Boston College,Boston College,2011,6923,jacksre01,unique NBA name
+Marshon Brooks,2011,Providence,Providence,2011,14026,brookma01,unique NBA name
+Jordan Hamilton,2011,Texas,Texas,2011,11388,hamiljo02,unique NBA name
+JaJuan Johnson,2011,Purdue,Purdue,2011,203,johnsja02,unique NBA name
+Norris Cole,2011,Cleveland State,Cleveland St.,2011,4149,coleno01,unique NBA name
+Cory Joseph,2011,Texas,Texas,2011,16073,josepco01,unique NBA name
+Jimmy Butler,2011,Marquette,Marquette,2011,9284,butleji01,unique NBA name
+Justin Harper,2011,Richmond,Richmond,2011,3094,harpeju01,unique NBA name
+Kyle Singler,2011,Duke,Duke,2011,197,singlky01,unique NBA name
+Shelvin Mack,2011,Butler,Butler,2011,6698,macksh01,unique NBA name
+Tyler  Honeycutt,2011,UCLA,UCLA,2011,11221,honeyty01,unique NBA name
+Jordan Williams,2011,Maryland,Maryland,2011,12373,willijo03,unique NBA name
+Chandler Parsons,2011,Florida,Florida,2011,2243,parsoch01,unique NBA name
+Jon Leuer,2011,Wisconsin,Wisconsin,2011,1932,leuerjo01,unique NBA name
+Darius Morris,2011,Michigan,Michigan,2011,14768,morrida01,unique NBA name
+Malcolm Lee,2011,UCLA,UCLA,2011,5037,leema01,unique NBA name
+Charles Jenkins,2011,Hofstra,Hofstra,2011,57,jenkich01,unique NBA name
+Josh Harrellson,2011,Kentucky,Kentucky,2011,7227,harrejo01,unique NBA name
+Andrew Goudelock,2011,Charleston,College of Charleston,2011,3120,goudean01,unique NBA name
+Travis Leslie,2011,Georgia,Georgia,2011,8206,leslitr01,unique NBA name
+Keith Benson,2011,Oakland,Oakland,2011,2763,bensoke02,unique NBA name
+Josh Selby,2011,Kansas,Kansas,2011,15108,selbyjo01,unique NBA name
+Lavoy Allen,2011,Temple,Temple,2011,1089,allenla01,unique NBA name
+Jon Diebler,2011,Ohio State,Ohio St.,2011,1926,,no NBA record; assumed zero
+Vernon Macklin,2011,Florida,Florida,2011,91,macklve01,unique NBA name
+DeAndre Liggins,2011,Kentucky,Kentucky,2011,7228,liggide01,unique NBA name
+E'Twaun Moore,2011,Purdue,Purdue,2011,201,mooreet01,unique NBA name
+Ater Majok,2011,UConn,Connecticut,2010,14121,,no NBA record; assumed zero
+Isaiah Thomas,2011,Washington,Washington,2011,8712,thomais02,unique NBA name
+Anthony Davis,2012,Kentucky,Kentucky,2012,22364,davisan02,unique NBA name
+Michael Kidd-Gilchrist,2012,Kentucky,Kentucky,2012,22362,kiddgmi01,unique NBA name
+Bradley Beal,2012,Florida,Florida,2012,22042,bealbr01,unique NBA name
+Dion Waiters,2012,Syracuse,Syracuse,2012,14983,waitedi01,unique NBA name
+Thomas Robinson,2012,Kansas,Kansas,2012,14520,robinth01,unique NBA name
+Damian Lillard,2012,Weber State,Weber St.,2012,4509,lillada01,unique NBA name
+Harrison Barnes,2012,North Carolina,North Carolina,2012,18910,barneha02,unique NBA name
+Terrence Ross,2012,Washington,Washington,2012,18838,rosste01,unique NBA name
+Andre Drummond,2012,UConn,Connecticut,2012,20311,drumman01,unique NBA name
+Austin Rivers,2012,Duke,Duke,2012,21892,riverau01,unique NBA name
+Meyers Leonard,2012,Illinois,Illinois,2012,17125,leoname01,unique NBA name
+Jeremy Lamb,2012,UConn,Connecticut,2012,18051,lambje01,unique NBA name
+Kendall Marshall,2012,North Carolina,North Carolina,2012,16380,marshke01,unique NBA name
+John Henson,2012,North Carolina,North Carolina,2012,10202,hensojo01,unique NBA name
+Royce White,2012,Iowa State,Iowa St.,2012,22331,whitero03,unique NBA name
+Tyler Zeller,2012,North Carolina,North Carolina,2012,6927,zellety01,unique NBA name
+Terrence Jones,2012,Kentucky,Kentucky,2012,15374,joneste01,unique NBA name
+Andrew Nicholson,2012,St. Bonaventure,St. Bonaventure,2012,8064,nichoan01,unique NBA name
+Jared Sullinger,2012,Ohio State,Ohio St.,2012,18035,sullija01,unique NBA name
+Fab Melo,2012,Syracuse,Syracuse,2012,14982,melofa01,unique NBA name
+John Jenkins,2012,Vanderbilt,Vanderbilt,2012,11858,jenkijo01,unique NBA name
+Jared Cunningham,2012,Oregon State,Oregon St.,2012,13618,cunnija01,unique NBA name
+Tony Wroten Jr.,2012,Washington,Washington,2012,21082,wroteto01,unique NBA name
+Miles Plumlee,2012,Duke,Duke,2012,8402,plumlmi01,unique NBA name
+Arnett Moultrie,2012,Mississippi State,Mississippi St.,2012,21025,moultar01,unique NBA name
+Perry Jones,2012,Baylor,Baylor,2012,18374,jonespe01,unique NBA name
+Marquis Teague,2012,Kentucky,Kentucky,2012,22365,teaguma01,unique NBA name
+Festus Ezeli,2012,Vanderbilt,Vanderbilt,2012,4250,ezelife01,unique NBA name
+Jeff Taylor,2012,Vanderbilt,Vanderbilt,2012,8208,tayloje03,unique NBA name
+Bernard James,2012,Florida State,Florida St.,2012,17913,jamesbe01,unique NBA name
+Jae Crowder,2012,Marquette,Marquette,2012,15568,crowdja01,unique NBA name
+Draymond Green,2012,Michigan State,Michigan St.,2012,8827,greendr01,unique NBA name
+Orlando Johnson,2012,UC Santa Barbara,UC Santa Barbara,2012,10632,johnsor01,unique NBA name
+Quincy Acy,2012,Baylor,Baylor,2012,9007,acyqu01,unique NBA name
+Quincy Miller,2012,Baylor,Baylor,2012,22556,millequ01,unique NBA name
+Khris Middleton,2012,Texas A&M,Texas A&M,2012,12631,middlkh01,unique NBA name
+Will Barton,2012,Memphis,Memphis,2012,19014,bartowi01,unique NBA name
+Tyshawn Taylor,2012,Kansas,Kansas,2012,13567,tayloty01,unique NBA name
+Doron Lamb,2012,Kentucky,Kentucky,2012,15371,lambdo01,unique NBA name
+Mike Scott,2012,Virginia,Virginia,2012,4079,scottmi01,unique NBA name
+Kim English,2012,Missouri,Missouri,2012,9696,engliki01,unique NBA name
+Justin Hamilton,2012,LSU,LSU,2012,5176,hamilju01,unique NBA name
+Darius Miller,2012,Kentucky,Kentucky,2012,7229,milleda01,unique NBA name
+Kevin Murphy,2012,Tennessee Tech,Tennessee Tech,2012,4375,murphke01,unique NBA name
+Kyle O'Quinn,2012,Norfolk State,Norfolk St.,2012,8774,oquinky01,unique NBA name
+Kris Joseph,2012,Syracuse,Syracuse,2012,4748,josepkr01,unique NBA name
+Darius Johnson-Odom,2012,Marquette,Marquette,2012,10809,johnsda03,unique NBA name
+Robbie Hummel,2012,Purdue,Purdue,2012,21042,hummero01,unique NBA name
+Marcus Denmon,2012,Missouri,Missouri,2012,5174,,no NBA record; assumed zero
+Robert Sacre,2012,Gonzaga,Gonzaga,2012,2747,sacrero01,unique NBA name
+Anthony Bennett,2013,UNLV,UNLV,2013,25132,bennean01,unique NBA name
+Victor Oladipo,2013,Indiana,Indiana,2013,18513,oladivi01,unique NBA name
+Otto Porter,2013,Georgetown,Georgetown,2013,19628,porteot01,unique NBA name
+Cody Zeller,2013,Indiana,Indiana,2013,24010,zelleco01,unique NBA name
+Alex Len,2013,Maryland,Maryland,2013,19499,lenal01,unique NBA name
+Nerlens Noel,2013,Kentucky,Kentucky,2013,26923,noelne01,unique NBA name
+Ben McLemore,2013,Kansas,Kansas,2013,24760,mclembe01,unique NBA name
+Kentavious Caldwell-Pope,2013,Georgia,Georgia,2013,21152,caldwke01,unique NBA name
+Trey Burke,2013,Michigan,Michigan,2013,21380,burketr01,unique NBA name
+C.J. McCollum,2013,Lehigh,Lehigh,2013,17390,mccolcj01,unique NBA name
+Michael Carter-Williams,2013,Syracuse,Syracuse,2013,23112,cartemi01,unique NBA name
+Steven Adams,2013,Pittsburgh,Pittsburgh,2013,26892,adamsst01,unique NBA name
+Kelly Olynyk,2013,Gonzaga,Gonzaga,2013,11882,olynyke01,unique NBA name
+Shabazz Muhammad,2013,UCLA,UCLA,2013,26310,muhamsh01,unique NBA name
+Shane Larkin,2013,Miami,Miami FL,2013,20694,larkish01,unique NBA name
+Tony Snell,2013,New Mexico,New Mexico,2013,19313,snellto01,unique NBA name
+Gorgui Dieng,2013,Louisville,Louisville,2013,18642,dienggo01,unique NBA name
+Mason Plumlee,2013,Duke,Duke,2013,12278,plumlma01,unique NBA name
+Solomon Hill,2013,Arizona,Arizona,2013,11698,hillso01,unique NBA name
+Tim Hardaway Jr.,2013,Michigan,Michigan,2013,14888,hardati02,unique NBA name
+Reggie Bullock,2013,North Carolina,North Carolina,2013,16384,bullore01,unique NBA name
+Andre Roberson,2013,Colorado,Colorado,2013,17361,roberan03,unique NBA name
+Archie Goodwin,2013,Kentucky,Kentucky,2013,27246,goodwar01,unique NBA name
+Allen Crabbe,2013,California,California,2013,18663,crabbal01,unique NBA name
+Carrick Felix,2013,Arizona State,Arizona St.,2013,18207,felixca01,unique NBA name
+Isaiah Canaan,2013,Murray State,Murray St.,2013,14625,canaais01,unique NBA name
+Glen Rice Jr.,2013,Georgia Tech,Georgia Tech,2012,10728,ricegl02,unique NBA name
+Ray McCallum,2013,Detroit Mercy,Detroit,2013,17384,mccalra01,unique NBA name
+Nate Wolters,2013,South Dakota State,South Dakota St.,2013,12007,woltena01,unique NBA name
+Jeff Withey,2013,Kansas,Kansas,2013,10238,witheje01,unique NBA name
+Grant Jerrett,2013,Arizona,Arizona,2013,26323,jerregr01,unique NBA name
+Jamaal Franklin,2013,San Diego State,San Diego St.,2013,16788,frankja01,unique NBA name
+Pierre Jackson,2013,Baylor,Baylor,2013,23090,jackspi01,unique NBA name
+Mike Muscala,2013,Bucknell,Bucknell,2013,14685,muscami01,unique NBA name
+Erick Green,2013,Virginia Tech,Virginia Tech,2013,13728,greener01,unique NBA name
+Ryan Kelly,2013,Duke,Duke,2013,14133,kellyry01,unique NBA name
+Erik Murphy,2013,Florida,Florida,2013,13540,murpher01,unique NBA name
+James Ennis,2013,Long Beach State,Long Beach St.,2013,19743,ennisja01,unique NBA name
+Romero Osby,2013,Oklahoma,Oklahoma,2013,20669,,no NBA record; assumed zero
+Lorenzo Brown,2013,NC State,North Carolina St.,2013,17642,brownlo01,unique NBA name
+Colton Iverson,2013,Colorado State,Colorado St.,2013,28225,,no NBA record; assumed zero
+Arsalan Kazemi,2013,Oregon,Oregon,2013,25005,,no NBA record; assumed zero
+Peyton Siva,2013,Louisville,Louisville,2013,13289,sivape01,unique NBA name
+Alex Oriakhi,2013,Missouri,Missouri,2013,14117,,no NBA record; assumed zero
+Deshaun Thomas,2013,Ohio State,Ohio St.,2013,18055,,no NBA record; assumed zero
+Andrew Wiggins,2014,Kansas,Kansas,2014,31626,wiggian01,unique NBA name
+Jabari Parker,2014,Duke,Duke,2014,32063,parkeja01,unique NBA name
+Joel Embiid,2014,Kansas,Kansas,2014,31621,embiijo01,unique NBA name
+Aaron Gordon,2014,Arizona,Arizona,2014,29525,gordoaa01,unique NBA name
+Marcus Smart,2014,Oklahoma State,Oklahoma St.,2014,24959,smartma01,unique NBA name
+Julius Randle,2014,Kentucky,Kentucky,2014,29051,randlju01,unique NBA name
+Nik Stauskas,2014,Michigan,Michigan,2014,28098,stausni01,unique NBA name
+Noah Vonleh,2014,Indiana,Indiana,2014,29985,vonleno01,unique NBA name
+Elfrid Payton,2014,Louisiana,Louisiana Lafayette,2014,23685,paytoel01,unique NBA name
+Doug McDermott,2014,Creighton,Creighton,2014,14955,mcderdo01,unique NBA name
+Zach LaVine,2014,UCLA,UCLA,2014,31114,lavinza01,unique NBA name
+T.J. Warren,2014,NC State,North Carolina St.,2014,26777,warretj01,unique NBA name
+Adreian Payne,2014,Michigan State,Michigan St.,2014,16825,paynead01,unique NBA name
+James Young,2014,Kentucky,Kentucky,2014,28736,youngja01,unique NBA name
+Tyler Ennis,2014,Syracuse,Syracuse,2014,32691,ennisty01,unique NBA name
+Gary Harris,2014,Michigan State,Michigan St.,2014,26989,harriga01,unique NBA name
+Mitch McGary,2014,Michigan,Michigan,2014,28103,mcgarmi01,unique NBA name
+Jordan Adams,2014,UCLA,UCLA,2014,25494,adamsjo01,unique NBA name
+Rodney Hood,2014,Duke,Duke,2014,19693,hoodro01,unique NBA name
+Shabazz Napier,2014,UConn,Connecticut,2014,18516,napiesh01,unique NBA name
+P.J. Hairston,2014,North Carolina,North Carolina,2013,22782,hairspj02,unique NBA name
+C.J. Wilcox,2014,Washington,Washington,2014,15155,wilcocj01,unique NBA name
+Josh Huestis,2014,Stanford,Stanford,2014,18382,huestjo01,unique NBA name
+Kyle Anderson,2014,UCLA,UCLA,2014,26311,anderky01,unique NBA name
+K.J. McDaniels,2014,Clemson,Clemson,2014,22137,mcdankj01,unique NBA name
+Joe Harris,2014,Virginia,Virginia,2014,17280,harrijo01,unique NBA name
+Cleanthony Early,2014,Wichita State,Wichita St.,2014,26859,earlycl01,unique NBA name
+Jarnell Stokes,2014,Tennessee,Tennessee,2014,23999,stokeja01,unique NBA name
+Johnny O'Bryant,2014,LSU,LSU,2014,21315,obryajo01,unique NBA name
+DeAndre Daniels,2014,UConn,Connecticut,2014,25301,,no NBA record; assumed zero
+Spencer Dinwiddie,2014,Colorado,Colorado,2014,19806,dinwisp01,unique NBA name
+Jerami Grant,2014,Syracuse,Syracuse,2014,25897,grantje01,unique NBA name
+Glenn Robinson III,2014,Michigan,Michigan,2014,28109,robingl02,unique NBA name
+Nick Johnson,2014,Arizona,Arizona,2014,21067,johnsni01,unique NBA name
+Markel Brown,2014,Oklahoma State,Oklahoma St.,2014,18415,brownma02,unique NBA name
+Dwight Powell,2014,Stanford,Stanford,2014,17946,poweldw01,unique NBA name
+Jordan Clarkson,2014,Missouri,Missouri,2014,15896,clarkjo01,unique NBA name
+Russ Smith,2014,Louisville,Louisville,2014,18729,smithru01,unique NBA name
+Lamar Patterson,2014,Pittsburgh,Pittsburgh,2014,18530,pattela01,unique NBA name
+Cameron Bairstow,2014,New Mexico,New Mexico,2014,19393,bairsca01,unique NBA name
+Alec Brown,2014,Green Bay,Green Bay,2014,19005,,no NBA record; assumed zero
+Semaj Christon,2014,Xavier,Xavier,2014,27129,chrisse01,unique NBA name
+Roy Devyn Marble,2014,Iowa,Iowa,2014,18726,marblde01,unique NBA name
+Jordan McRae,2014,Tennessee,Tennessee,2014,16656,mcraejo01,unique NBA name
+Xavier Thames,2014,San Diego State,San Diego St.,2014,21860,,no NBA record; assumed zero
+Cory Jefferson,2014,Baylor,Baylor,2014,22196,jeffeco01,unique NBA name
+Karl-Anthony Towns,2015,Kentucky,Kentucky,2015,35836,townska01,unique NBA name
+D'Angelo Russell,2015,Ohio State,Ohio St.,2015,38468,russeda01,unique NBA name
+Jahlil Okafor,2015,Duke,Duke,2015,38635,okafoja01,unique NBA name
+Willie Cauley-Stein,2015,Kentucky,Kentucky,2015,24136,caulewi01,unique NBA name
+Stanley Johnson,2015,Arizona,Arizona,2015,34150,johnsst04,unique NBA name
+Frank Kaminsky,2015,Wisconsin,Wisconsin,2015,21292,kaminfr01,unique NBA name
+Justise Winslow,2015,Duke,Duke,2015,38640,winslju01,unique NBA name
+Myles Turner,2015,Texas,Texas,2015,37036,turnemy01,unique NBA name
+Trey Lyles,2015,Kentucky,Kentucky,2015,35837,lylestr01,unique NBA name
+Devin Booker,2015,Kentucky,Kentucky,2015,52495,bookede01,unique NBA name
+Cameron Payne,2015,Murray State,Murray St.,2015,29428,payneca01,unique NBA name
+Kelly Oubre,2015,Kansas,Kansas,2015,34389,oubreke01,unique NBA name
+Terry Rozier,2015,Louisville,Louisville,2015,29506,roziete01,unique NBA name
+Rashad Vaughn,2015,UNLV,UNLV,2015,37215,vaughra01,unique NBA name
+Sam Dekker,2015,Wisconsin,Wisconsin,2015,25362,dekkesa01,unique NBA name
+Jerian Grant,2015,Notre Dame,Notre Dame,2015,23810,grantje02,unique NBA name
+Delon Wright,2015,Utah,Utah,2015,31100,wrighde01,unique NBA name
+Justin Anderson,2015,Virginia,Virginia,2015,28488,anderju01,unique NBA name
+Bobby Portis,2015,Arkansas,Arkansas,2015,29460,portibo01,unique NBA name
+Rondae Hollis-Jefferson,2015,Arizona,Arizona,2015,29198,holliro01,unique NBA name
+Tyus Jones,2015,Duke,Duke,2015,37730,jonesty01,unique NBA name
+Jarell Martin,2015,LSU,LSU,2015,28739,martija01,unique NBA name
+Larry Nance Jr.,2015,Wyoming,Wyoming,2015,20039,nancela02,unique NBA name
+R.J. Hunter,2015,Georgia State,Georgia St.,2015,27935,hunterj01,unique NBA name
+Chris McCullough,2015,Syracuse,Syracuse,2015,35808,mcculch01,unique NBA name
+Kevon Looney,2015,UCLA,UCLA,2015,36883,looneke01,unique NBA name
+Montrezl Harrell,2015,Louisville,Louisville,2015,26468,harremo01,unique NBA name
+Jordan Mickey,2015,LSU,LSU,2015,28749,mickejo01,unique NBA name
+Anthony Brown,2015,Stanford,Stanford,2015,16684,brownan02,unique NBA name
+Rakeem Christmas,2015,Syracuse,Syracuse,2015,23200,chrisra01,unique NBA name
+Richaun Holmes,2015,Bowling Green,Bowling Green,2015,26987,holmeri01,unique NBA name
+Darrun Hilliard II,2015,Villanova,Villanova,2015,21234,hillida01,unique NBA name
+Josh Richardson,2015,Tennessee,Tennessee,2015,20063,richajo01,unique NBA name
+Pat Connaughton,2015,Notre Dame,Notre Dame,2015,19805,connapa01,unique NBA name
+Olivier Hanlan,2015,Boston College,Boston College,2015,25499,,no NBA record; assumed zero
+Joseph Young,2015,Oregon,Oregon,2015,20453,youngjo01,unique NBA name
+Andrew Harrison,2015,Kentucky,Kentucky,2015,28730,harrian01,unique NBA name
+Norman Powell,2015,UCLA,UCLA,2015,22006,powelno01,unique NBA name
+Dakari Johnson,2015,Kentucky,Kentucky,2015,29049,johnsda04,unique NBA name
+Aaron White,2015,Iowa,Iowa,2015,22631,,no NBA record; assumed zero
+Tyler Harvey,2015,Eastern Washington,Eastern Washington,2015,25418,,no NBA record; assumed zero
+Sir'Dominic Pointer,2015,St. John's,St. John's,2015,22208,,no NBA record; assumed zero
+Cady Lalanne,2015,Massachusetts,Massachusetts,2015,20635,,no NBA record; assumed zero
+Branden Dawson,2015,Michigan State,Michigan St.,2015,23692,dawsobr01,unique NBA name
+J.P. Tokoto,2015,North Carolina,North Carolina,2015,24418,,no NBA record; assumed zero
+Ben Simmons,2016,LSU,LSU,2016,41356,simmobe01,unique NBA name
+Brandon Ingram,2016,Duke,Duke,2016,40152,ingrabr01,unique NBA name
+Jaylen Brown,2016,California,California,2016,38792,brownja02,unique NBA name
+Kris Dunn,2016,Providence,Providence,2016,25358,dunnkr01,unique NBA name
+Buddy Hield,2016,Oklahoma,Oklahoma,2016,27126,hieldbu01,unique NBA name
+Jamal Murray,2016,Kentucky,Kentucky,2016,41317,murraja01,unique NBA name
+Marquese Chriss,2016,Washington,Washington,2016,39876,chrisma01,unique NBA name
+Jakob Poeltl,2016,Utah,Utah,2016,35220,poeltja01,unique NBA name
+Domantas Sabonis,2016,Gonzaga,Gonzaga,2016,33822,sabondo01,unique NBA name
+Taurean Prince,2016,Baylor,Baylor,2016,24114,princta02,unique NBA name
+Denzel Valentine,2016,Michigan State,Michigan St.,2016,26984,valende01,unique NBA name
+Wade Baldwin IV,2016,Vanderbilt,Vanderbilt,2016,36903,baldwwa01,unique NBA name
+Henry Ellenson,2016,Marquette,Marquette,2016,42990,ellenhe01,unique NBA name
+Malik Beasley,2016,Florida State,Florida St.,2016,41749,beaslma01,unique NBA name
+Caris LeVert,2016,Michigan,Michigan,2016,26551,leverca01,unique NBA name
+DeAndre Bembry,2016,Saint Joseph's,Saint Joseph's,2016,31965,bembrde01,unique NBA name
+Malachi Richardson,2016,Syracuse,Syracuse,2016,40443,richama01,unique NBA name
+Brice Johnson,2016,North Carolina,North Carolina,2016,24417,johnsbr02,unique NBA name
+Pascal Siakam,2016,New Mexico State,New Mexico St.,2016,37123,siakapa01,unique NBA name
+Skal Labissiere,2016,Kentucky,Kentucky,2016,42780,labissk01,unique NBA name
+Dejounte Murray,2016,Washington,Washington,2016,40260,murrade01,unique NBA name
+Damian Jones,2016,Vanderbilt,Vanderbilt,2016,28727,jonesda03,unique NBA name
+Deyonta Davis,2016,Michigan State,Michigan St.,2016,40042,davisde01,unique NBA name
+Cheick Diallo,2016,Kansas,Kansas,2016,40882,diallch01,unique NBA name
+Tyler Ulis,2016,Kentucky,Kentucky,2016,35839,ulisty01,unique NBA name
+Malcolm Brogdon,2016,Virginia,Virginia,2016,33335,brogdma01,unique NBA name
+Chinanu Onuaku,2016,Louisville,Louisville,2016,35483,onuakch01,unique NBA name
+Patrick McCaw,2016,UNLV,UNLV,2016,37216,mccawpa01,unique NBA name
+Diamond Stone,2016,Maryland,Maryland,2016,40521,stonedi01,unique NBA name
+Stephen Zimmerman Jr.,2016,UNLV,UNLV,2016,41574,zimmest01,unique NBA name
+Isaiah Whitehead,2016,Seton Hall,Seton Hall,2016,35622,whiteis01,unique NBA name
+Demetrius Jackson,2016,Notre Dame,Notre Dame,2016,29232,jacksde01,unique NBA name
+A.J. Hammons,2016,Purdue,Purdue,2016,24381,hammoaj01,unique NBA name
+Jake Layman,2016,Maryland,Maryland,2016,26773,laymaja01,unique NBA name
+Michael Gbinije,2016,Syracuse,Syracuse,2016,21893,gbinimi01,unique NBA name
+Georges Niang,2016,Iowa State,Iowa St.,2016,25519,niangge01,unique NBA name
+Ben Bentil,2016,Providence,Providence,2016,34801,bentibe01,unique NBA name
+Joel Bolomboy,2016,Weber State,Weber St.,2016,24934,bolomjo01,unique NBA name
+Marcus Paige,2016,North Carolina,North Carolina,2016,24416,paigema01,unique NBA name
+Daniel Hamilton,2016,UConn,Connecticut,2016,35659,hamilda02,unique NBA name
+Abdel Nader,2016,Iowa State,Iowa St.,2016,34544,naderab01,unique NBA name
+Isaiah Cousins,2016,Oklahoma,Oklahoma,2016,27124,,no NBA record; assumed zero
+Tyrone Wallace,2016,California,California,2016,27397,wallaty01,unique NBA name
+Markelle Fultz,2017,Washington,Washington,2017,47677,fultzma01,unique NBA name
+Lonzo Ball,2017,UCLA,UCLA,2017,44633,balllo01,unique NBA name
+Jayson Tatum,2017,Duke,Duke,2017,45563,tatumja01,unique NBA name
+Josh Jackson,2017,Kansas,Kansas,2017,45182,jacksjo02,unique NBA name
+De'Aaron Fox,2017,Kentucky,Kentucky,2017,47561,foxde01,unique NBA name
+Jonathan Isaac,2017,Florida State,Florida St.,2017,48431,isaacjo01,unique NBA name
+Lauri Markkanen,2017,Arizona,Arizona,2017,44973,markkla01,unique NBA name
+Dennis Smith,2017,NC State,North Carolina St.,2017,45392,smithde03,unique NBA name
+Zach Collins,2017,Gonzaga,Gonzaga,2017,48367,colliza01,unique NBA name
+Malik Monk,2017,Kentucky,Kentucky,2017,45276,monkma01,unique NBA name
+Luke Kennard,2017,Duke,Duke,2017,40143,kennalu01,unique NBA name
+Donovan Mitchell,2017,Louisville,Louisville,2017,41754,mitchdo01,unique NBA name
+Edrice Adebayo,2017,Kentucky,Kentucky,2017,47569,adebaba01,unique NBA name
+Justin Jackson,2017,North Carolina,North Carolina,2017,36922,jacksju01,unique NBA name
+Justin Patton,2017,Creighton,Creighton,2017,43360,pattoju01,unique NBA name
+D.J. Wilson,2017,Michigan,Michigan,2017,36619,wilsodj01,unique NBA name
+TJ Leaf,2017,UCLA,UCLA,2017,44631,leaftj01,unique NBA name
+John Collins,2017,Wake Forest,Wake Forest,2017,41627,collijo01,unique NBA name
+Harry Giles,2017,Duke,Duke,2017,48428,gilesha01,unique NBA name
+Jarrett Allen,2017,Texas,Texas,2017,47193,allenja01,unique NBA name
+OG Anunoby,2017,Indiana,Indiana,2017,41594,anunoog01,unique NBA name
+Tyler Lydon,2017,Syracuse,Syracuse,2017,40441,lydonty01,unique NBA name
+Caleb Swanigan,2017,Purdue,Purdue,2017,39112,swanica01,unique NBA name
+Kyle Kuzma,2017,Utah,Utah,2017,35219,kuzmaky01,unique NBA name
+Tony Bradley,2017,North Carolina,North Carolina,2017,49377,bradlto01,unique NBA name
+Derrick White,2017,Colorado,Colorado,2017,41996,whitede01,unique NBA name
+Josh Hart,2017,Villanova,Villanova,2017,33417,hartjo01,unique NBA name
+Frank Jackson,2017,Duke,Duke,2017,48430,jacksfr01,unique NBA name
+Davon Reed,2017,Miami,Miami FL,2017,31708,reedda01,unique NBA name
+Wesley Iwundu,2017,Kansas State,Kansas St.,2017,29335,iwundwe01,unique NBA name
+Frank Mason,2017,Kansas,Kansas,2017,41006,masonfr01,unique NBA name
+Ivan Rabb,2017,California,California,2017,41316,rabbiv01,unique NBA name
+Semi Ojeleye,2017,SMU,SMU,2017,28767,ojelese01,unique NBA name
+Jordan Bell,2017,Oregon,Oregon,2017,38340,belljo01,unique NBA name
+Jawun Evans,2017,Oklahoma State,Oklahoma St.,2017,38748,evansja01,unique NBA name
+Dwayne Bacon,2017,Florida State,Florida St.,2017,41746,bacondw01,unique NBA name
+Tyler Dorsey,2017,Oregon,Oregon,2017,39243,dorsety01,unique NBA name
+Thomas Bryant,2017,Indiana,Indiana,2017,40461,bryanth01,unique NBA name
+Damyean Dotson,2017,Houston,Houston,2017,41447,dotsoda01,unique NBA name
+Dillon Brooks,2017,Oregon,Oregon,2017,37385,brookdi01,unique NBA name
+Sterling Brown,2017,SMU,SMU,2017,32989,brownst02,unique NBA name
+Ike Anigbogu,2017,UCLA,UCLA,2017,44630,anigbik01,unique NBA name
+Sindarius Thornwell,2017,South Carolina,South Carolina,2017,29814,thornsi01,unique NBA name
+Monte Morris,2017,Iowa State,Iowa St.,2017,38703,morrimo01,unique NBA name
+Edmond Sumner,2017,Xavier,Xavier,2017,35886,sumneed01,unique NBA name
+Kadeem Allen,2017,Arizona,Arizona,2017,34157,allenka01,unique NBA name
+Alec Peters,2017,Valparaiso,Valparaiso,2017,29744,peteral01,unique NBA name
+Nigel Williams-Goss,2017,Gonzaga,Gonzaga,2017,33186,willini01,unique NBA name
+Jabari Bird,2017,California,California,2017,31372,birdja01,unique NBA name
+Jaron Blossomgame,2017,Clemson,Clemson,2017,30917,blossja01,unique NBA name
+Deandre Ayton,2018,Arizona,Arizona,2018,50238,aytonde01,unique NBA name
+Marvin Bagley III,2018,Duke,Duke,2018,50726,baglema01,unique NBA name
+Jaren Jackson Jr.,2018,Michigan State,Michigan St.,2018,51788,jacksja02,unique NBA name
+Trae Young,2018,Oklahoma,Oklahoma,2018,51469,youngtr01,unique NBA name
+Mohamed Bamba,2018,Texas,Texas,2018,51204,bambamo01,unique NBA name
+Wendell Carter Jr.,2018,Duke,Duke,2018,51785,cartewe01,unique NBA name
+Collin Sexton,2018,Alabama,Alabama,2018,51365,sextoco01,unique NBA name
+Kevin Knox,2018,Kentucky,Kentucky,2018,52041,knoxke01,unique NBA name
+Mikal Bridges,2018,Villanova,Villanova,2018,37054,bridgmi01,unique NBA name
+Shai Gilgeous-Alexander,2018,Kentucky,Kentucky,2018,51731,gilgesh01,unique NBA name
+Miles Bridges,2018,Michigan State,Michigan St.,2018,44723,bridgmi02,unique NBA name
+Jerome Robinson,2018,Boston College,Boston College,2018,43548,robinje01,unique NBA name
+Michael Porter Jr.,2018,Missouri,Missouri,2018,51186,portemi01,unique NBA name
+Troy Brown,2018,Oregon,Oregon,2018,51598,browntr01,unique NBA name
+Zhaire Smith,2018,Texas Tech,Texas Tech,2018,51689,smithzh01,unique NBA name
+Donte DiVincenzo,2018,Villanova,Villanova,2018,40884,divindo01,unique NBA name
+Lonnie Walker,2018,Miami,Miami FL,2018,50255,walkelo01,unique NBA name
+Kevin Huerter,2018,Maryland,Maryland,2018,45160,huertke01,unique NBA name
+Josh Okogie,2018,Georgia Tech,Georgia Tech,2018,46259,okogijo01,unique NBA name
+Grayson Allen,2018,Duke,Duke,2018,37731,allengr01,unique NBA name
+Chandler Hutchison,2018,Boise State,Boise St.,2018,36559,hutchch01,unique NBA name
+Aaron Holiday,2018,UCLA,UCLA,2018,39514,holidaa01,unique NBA name
+Moritz Wagner,2018,Michigan,Michigan,2018,40399,wagnemo01,unique NBA name
+Landry Shamet,2018,Wichita State,Wichita St.,2018,40045,shamela01,unique NBA name
+Robert Williams,2018,Texas A&M,Texas A&M,2018,46873,williro04,unique NBA name
+Jacob Evans,2018,Cincinnati,Cincinnati,2018,38797,evansja02,unique NBA name
+Omari Spellman,2018,Villanova,Villanova,2018,47562,spellom01,unique NBA name
+Jevon Carter,2018,West Virginia,West Virginia,2018,33739,carteje01,unique NBA name
+Jalen Brunson,2018,Villanova,Villanova,2018,40885,brunsja01,unique NBA name
+Devonte' Graham,2018,Kansas,Kansas,2018,34391,grahade01,unique NBA name
+Melvin Frazier,2018,Tulane,Tulane,2018,39519,frazime01,unique NBA name
+Gary Trent Jr.,2018,Duke,Duke,2018,51371,trentga02,unique NBA name
+Khyri Thomas,2018,Creighton,Creighton,2018,39884,thomakh01,unique NBA name
+Jarred Vanderbilt,2018,Kentucky,Kentucky,2018,52039,vandeja01,unique NBA name
+Bruce Brown,2018,Miami,Miami FL,2018,46262,brownbr01,unique NBA name
+Hamidou Diallo,2018,Kentucky,Kentucky,2018,51454,diallha01,unique NBA name
+De'Anthony Melton,2018,USC,USC,2017,47673,meltode01,unique NBA name
+Sviatoslav Mykhailiuk,2018,Kansas,Kansas,2018,34388,mykhasv01,unique NBA name
+Keita Bates-Diop,2018,Ohio State,Ohio St.,2018,33637,bateske01,unique NBA name
+Chimezie Metu,2018,USC,USC,2018,39509,metuch01,unique NBA name
+Alize Johnson,2018,Missouri State,Missouri St.,2018,46797,johnsal02,unique NBA name
+Tony Carr,2018,Penn State,Penn St.,2018,49590,,no NBA record; assumed zero
+Devon Hall,2018,Virginia,Virginia,2018,35972,hallde01,unique NBA name
+Shake Milton,2018,SMU,SMU,2018,39043,miltosh01,unique NBA name
+Ray Spalding,2018,Louisville,Louisville,2018,41745,spaldra01,unique NBA name
+Kevin Hervey,2018,UT Arlington,UT Arlington,2018,35331,herveke01,unique NBA name
+Thomas Welsh,2018,UCLA,UCLA,2018,36884,welshth01,unique NBA name
+George King,2018,Colorado,Colorado,2018,29633,kingge03,unique NBA name
+Kostas Antetokounmpo,2018,Dayton,Dayton,2018,44540,antetko01,unique NBA name
+Zion Williamson,2019,Duke,Duke,2019,65847,willizi01,unique NBA name
+Ja Morant,2019,Murray State,Murray St.,2019,50678,moranja01,unique NBA name
+RJ Barrett,2019,Duke,Duke,2019,65854,barrerj01,unique NBA name
+De'Andre Hunter,2019,Virginia,Virginia,2019,45188,huntede01,unique NBA name
+Darius Garland,2019,Vanderbilt,Vanderbilt,2019,65919,garlada01,unique NBA name
+Jarrett Culver,2019,Texas Tech,Texas Tech,2019,51280,culveja01,unique NBA name
+Coby White,2019,North Carolina,North Carolina,2019,65631,whiteco01,unique NBA name
+Jaxson Hayes,2019,Texas,Texas,2019,66595,hayesja02,unique NBA name
+Rui Hachimura,2019,Gonzaga,Gonzaga,2019,48365,hachiru01,unique NBA name
+Cam Reddish,2019,Duke,Duke,2019,65846,reddica01,unique NBA name
+Cameron Johnson,2019,North Carolina,North Carolina,2019,52111,johnsca02,unique NBA name
+PJ Washington,2019,Kentucky,Kentucky,2019,51732,washipj01,unique NBA name
+Tyler Herro,2019,Kentucky,Kentucky,2019,66474,herroty01,unique NBA name
+Romeo Langford,2019,Indiana,Indiana,2019,65891,langfro01,unique NBA name
+Chuma Okeke,2019,Auburn,Auburn,2019,51602,okekech01,unique NBA name
+Nickeil Alexander-Walker,2019,Virginia Tech,Virginia Tech,2019,50477,alexani01,unique NBA name
+Matisse Thybulle,2019,Washington,Washington,2019,43029,thybuma01,unique NBA name
+Brandon Clarke,2019,Gonzaga,Gonzaga,2019,43790,clarkbr01,unique NBA name
+Grant Williams,2019,Tennessee,Tennessee,2019,49187,willigr01,unique NBA name
+Ty Jerome,2019,Virginia,Virginia,2019,45185,jeromty01,unique NBA name
+Nassir Little,2019,North Carolina,North Carolina,2019,65458,littlna01,unique NBA name
+Dylan Windler,2019,Belmont,Belmont,2019,40475,windldy01,unique NBA name
+Mfiondu Kabengele,2019,Florida State,Florida St.,2019,48424,kabenmf01,unique NBA name
+Jordan Poole,2019,Michigan,Michigan,2019,50346,poolejo01,unique NBA name
+Keldon Johnson,2019,Kentucky,Kentucky,2019,66092,johnske04,unique NBA name
+Kevin Porter Jr.,2019,USC,USC,2019,66706,porteke02,unique NBA name
+Nic Claxton,2019,Georgia,Georgia,2019,51305,claxtni01,unique NBA name
+KZ Okpala,2019,Stanford,Stanford,2019,51924,okpalkz01,unique NBA name
+Carsen Edwards,2019,Purdue,Purdue,2019,47325,edwarca01,unique NBA name
+Bruno Fernando,2019,Maryland,Maryland,2019,51951,fernabr01,unique NBA name
+Cody Martin,2019,Nevada,Nevada,2019,46681,martico01,unique NBA name
+Daniel Gafford,2019,Arkansas,Arkansas,2019,51358,gaffoda01,unique NBA name
+Justin James,2019,Wyoming,Wyoming,2019,40442,jamesju01,unique NBA name
+Eric Paschall,2019,Villanova,Villanova,2019,37332,pascher01,unique NBA name
+Admiral Schofield,2019,Tennessee,Tennessee,2019,42130,schofad01,unique NBA name
+Jaylen Nowell,2019,Washington,Washington,2019,52287,nowelja01,unique NBA name
+Bol Bol,2019,Oregon,Oregon,2019,65857,bolbo01,unique NBA name
+Isaiah Roby,2019,Nebraska,Nebraska,2019,44213,robyis01,unique NBA name
+Talen Horton-Tucker,2019,Iowa State,Iowa St.,2019,65661,hortota01,unique NBA name
+Ignas Brazdeikis,2019,Michigan,Michigan,2019,65491,brazdig01,unique NBA name
+Terance Mann,2019,Florida State,Florida St.,2019,41748,mannte01,unique NBA name
+Quinndary Weatherspoon,2019,Mississippi State,Mississippi St.,2019,41354,weathqu01,unique NBA name
+Jarrell Brantley,2019,Charleston,College of Charleston,2019,40460,brantja01,unique NBA name
+Tremont Waters,2019,LSU,LSU,2019,51308,watertr01,unique NBA name
+Jalen McDaniels,2019,San Diego State,San Diego St.,2019,48490,mcdanja01,unique NBA name
+Justin Wright-Foreman,2019,Hofstra,Hofstra,2019,43169,wrighju02,unique NBA name
+Marial Shayok,2019,Iowa State,Iowa St.,2019,35662,shayoma01,unique NBA name
+Kyle Guy,2019,Virginia,Virginia,2019,48211,guyky01,unique NBA name
+Jaylen Hands,2019,UCLA,UCLA,2019,51920,,no NBA record; assumed zero
+Jordan Bone,2019,Tennessee,Tennessee,2019,49185,bonejo01,unique NBA name
+Miye Oni,2019,Yale,Yale,2019,44509,onimi01,unique NBA name
+Anthony Edwards,2020,Georgia,Georgia,2020,71877,edwaran01,unique NBA name
+James Wiseman,2020,Memphis,Memphis,2020,70562,wisemja01,unique NBA name
+Patrick Williams,2020,Florida State,Florida St.,2020,72084,willipa01,unique NBA name
+Isaac Okoro,2020,Auburn,Auburn,2020,70647,okorois01,unique NBA name
+Onyeka Okongwu,2020,USC,USC,2020,71269,okongon01,unique NBA name
+Obi Toppin,2020,Dayton,Dayton,2020,65484,toppiob01,unique NBA name
+Jalen Smith,2020,Maryland,Maryland,2020,65495,smithja04,unique NBA name
+Devin Vassell,2020,Florida State,Florida St.,2020,66203,vassede01,unique NBA name
+Tyrese Haliburton,2020,Iowa State,Iowa St.,2020,65663,halibty01,unique NBA name
+Kira Lewis Jr,2020,Alabama,Alabama,2020,66608,lewiski01,unique NBA name
+Aaron Nesmith,2020,Vanderbilt,Vanderbilt,2020,66174,nesmiaa01,unique NBA name
+Cole Anthony,2020,North Carolina,North Carolina,2020,70338,anthoco01,unique NBA name
+Isaiah Stewart,2020,Washington,Washington,2020,71545,stewais01,unique NBA name
+Josh Green,2020,Arizona,Arizona,2020,71436,greenjo02,unique NBA name
+Saddiq Bey,2020,Villanova,Villanova,2020,65889,beysa01,unique NBA name
+Precious Achiuwa,2020,Memphis,Memphis,2020,70558,achiupr01,unique NBA name
+Tyrese Maxey,2020,Kentucky,Kentucky,2020,71900,maxeyty01,unique NBA name
+Zeke Nnaji,2020,Arizona,Arizona,2020,70422,nnajize01,unique NBA name
+Immanuel Quickley,2020,Kentucky,Kentucky,2020,65578,quickim01,unique NBA name
+Payton Pritchard,2020,Oregon,Oregon,2020,47506,pritcpa01,unique NBA name
+Udoka Azubuike,2020,Kansas,Kansas,2020,45190,azubuud01,unique NBA name
+Jaden McDaniels,2020,Washington,Washington,2020,71487,mcdanja02,unique NBA name
+Malachi Flynn,2020,San Diego State,San Diego St.,2020,44865,flynnma01,unique NBA name
+Desmond Bane,2020,TCU,TCU,2020,46595,banede01,unique NBA name
+Tyrell Terry,2020,Stanford,Stanford,2020,70571,terryty01,unique NBA name
+Vernon Carey Jr,2020,Duke,Duke,2020,71628,careyve01,unique NBA name
+Daniel Oturu,2020,Minnesota,Minnesota,2020,66110,oturuda01,unique NBA name
+Xavier Tillman,2020,Michigan State,Michigan St.,2020,51753,tillmxa01,unique NBA name
+Tyler Bey,2020,Colorado,Colorado,2020,52083,beyty01,unique NBA name
+Saben Lee,2020,Vanderbilt,Vanderbilt,2020,50484,leesa01,unique NBA name
+Elijah Hughes,2020,Syracuse,Syracuse,2020,47357,hugheel01,unique NBA name
+Robert Woodard II,2020,Mississippi State,Mississippi St.,2020,65906,woodaro01,unique NBA name
+Tre Jones,2020,Duke,Duke,2020,65855,jonestr01,unique NBA name
+Nick Richards,2020,Kentucky,Kentucky,2020,51728,richani01,unique NBA name
+Jahmi'us Ramsey,2020,Texas Tech,Texas Tech,2020,71183,ramseja01,unique NBA name
+Jordan Nwora,2020,Louisville,Louisville,2020,50605,nworajo01,unique NBA name
+CJ Elleby,2020,Washington State,Washington St.,2020,65531,ellebcj01,unique NBA name
+Nico Mannion,2020,Arizona,Arizona,2020,71327,mannini01,unique NBA name
+Isaiah Joe,2020,Arkansas,Arkansas,2020,66609,joeis01,unique NBA name
+Skylar Mays,2020,LSU,LSU,2020,48923,mayssk01,unique NBA name
+Justinian Jessup,2020,Boise State,Boise St.,2020,48123,,no NBA record; assumed zero
+Cassius Winston,2020,Michigan State,Michigan St.,2020,44722,winstca01,unique NBA name
+Cassius Stanley,2020,Duke,Duke,2020,71030,stanlca01,unique NBA name
+Grant Riller,2020,Charleston,College of Charleston,2020,40407,rillegr01,unique NBA name
+Reggie Perry,2020,Mississippi State,Mississippi St.,2020,65915,perryre01,unique NBA name
+Paul Reed,2020,DePaul,DePaul,2020,50818,reedpa01,unique NBA name
+Jalen Harris,2020,Nevada,Nevada,2020,47012,harrija01,unique NBA name
+Sam Merrill,2020,Utah State,Utah St.,2020,47902,merrisa01,unique NBA name
+Cade Cunningham,2021,Oklahoma State,Oklahoma St.,2021,72372,cunnica01,unique NBA name
+Evan Mobley,2021,USC,USC,2021,72870,mobleev01,unique NBA name
+Scottie Barnes,2021,Florida State,Florida St.,2021,72657,barnesc01,unique NBA name
+Jalen Suggs,2021,Gonzaga,Gonzaga,2021,72863,suggsja01,unique NBA name
+Franz Wagner,2021,Michigan,Michigan,2021,70394,wagnefr01,unique NBA name
+Davion Mitchell,2021,Baylor,Baylor,2021,51367,mitchda01,unique NBA name
+Ziaire Williams,2021,Stanford,Stanford,2021,72856,willizi02,unique NBA name
+James Bouknight,2021,UConn,Connecticut,2021,70319,bouknja01,unique NBA name
+Joshua Primo,2021,Alabama,Alabama,2021,72716,primojo01,unique NBA name
+Chris Duarte,2021,Oregon,Oregon,2021,70910,duartch01,unique NBA name
+Moses Moody,2021,Arkansas,Arkansas,2021,72944,moodymo01,unique NBA name
+Corey Kispert,2021,Gonzaga,Gonzaga,2021,51050,kispeco01,unique NBA name
+Trey Murphy III,2021,Virginia,Virginia,2021,65675,murphtr02,unique NBA name
+Tre Mann,2021,Florida,Florida,2021,70993,manntr01,unique NBA name
+Kai Jones,2021,Texas,Texas,2021,71905,joneska01,unique NBA name
+Jalen Johnson,2021,Duke,Duke,2021,73238,johnsja05,unique NBA name
+Keon Johnson,2021,Tennessee,Tennessee,2021,73686,johnske07,unique NBA name
+Isaiah Jackson,2021,Kentucky,Kentucky,2021,73524,jacksis01,unique NBA name
+Josh Christopher,2021,Arizona State,Arizona St.,2021,72758,chrisjo01,unique NBA name
+Quentin Grimes,2021,Houston,Houston,2021,65580,grimequ01,unique NBA name
+Nah'Shon Hyland,2021,VCU,VCU,2021,70684,hylanbo01,unique NBA name
+Cameron Thomas,2021,LSU,LSU,2021,73451,thomaca02,unique NBA name
+Jaden Springer,2021,Tennessee,Tennessee,2021,73275,sprinja01,unique NBA name
+Day'Ron Sharpe,2021,North Carolina,North Carolina,2021,73518,sharpda01,unique NBA name
+Santi Aldama,2021,Loyola Maryland,Loyola MD,2021,71076,aldamsa01,unique NBA name
+Jeremiah Robinson-Earl,2021,Villanova,Villanova,2021,71861,robinje02,unique NBA name
+Jason Preston,2021,Ohio,Ohio,2021,65701,prestja01,unique NBA name
+Herbert Jones,2021,Alabama,Alabama,2021,51990,joneshe01,unique NBA name
+Miles McBride,2021,West Virginia,West Virginia,2021,71636,mcbrimi01,unique NBA name
+JT Thor,2021,Auburn,Auburn,2021,73213,thorjt01,unique NBA name
+Ayo Dosunmu,2021,Illinois,Illinois,2021,66420,dosunay01,unique NBA name
+Neemias Queta,2021,Utah State,Utah St.,2021,67637,quetane01,unique NBA name
+Jared Butler,2021,Baylor,Baylor,2021,66113,butleja02,unique NBA name
+Joe Wieskamp,2021,Iowa,Iowa,2021,66492,wieskjo01,unique NBA name
+Isaiah Livers,2021,Michigan,Michigan,2021,50343,liveris01,unique NBA name
+Greg Brown,2021,Texas,Texas,2021,73630,browngr01,unique NBA name
+Kessler Edwards,2021,Pepperdine,Pepperdine,2021,66410,edwarke02,unique NBA name
+Dalano Banton,2021,Nebraska,Nebraska,2021,65803,bantoda01,unique NBA name
+David Johnson,2021,Louisville,Louisville,2021,70419,johnsda08,unique NBA name
+Sharife Cooper,2021,Auburn,Auburn,2021,72782,coopesh01,unique NBA name
+Marcus Zegarowski,2021,Creighton,Creighton,2021,65501,,no NBA record; assumed zero
+Brandon Boston Jr,2021,Kentucky,Kentucky,2021,73723,bostobr01,unique NBA name
+Luka Garza,2021,Iowa,Iowa,2021,51595,garzalu01,unique NBA name
+Charles Bassey,2021,Western Kentucky,Western Kentucky,2021,65800,bassech01,unique NBA name
+Sandro Mamukelashvili,2021,Seton Hall,Seton Hall,2021,50557,mamuksa01,unique NBA name
+Aaron Wiggins,2021,Maryland,Maryland,2021,66483,wiggiaa01,unique NBA name
+Scottie Lewis,2021,Florida,Florida,2021,70994,lewissc01,unique NBA name
+Balsa Koprivica,2021,Florida State,Florida St.,2021,72082,,no NBA record; assumed zero
+Jericho Sims,2021,Texas,Texas,2021,51301,simsje01,unique NBA name
+RaiQuan Gray,2021,Florida State,Florida St.,2021,65720,grayra01,unique NBA name

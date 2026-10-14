@@ -1,0 +1,13 @@
+{
+  "seed": 199,
+  "horizon": 5,
+  "coverage_end": 2026,
+  "test_years": [2020, 2021],
+  "nested_origins": [2018, 2019],
+  "min_training": 35,
+  "trials_per_family": 12,
+  "bootstrap_replicates": 2000,
+  "targets": {"vorp5": "regression", "minutes5": "regression", "active5": "regression", "rotation5": "classification", "starter5": "classification"},
+  "families": ["constant", "linear", "random_forest", "extra_trees", "xgboost", "lightgbm", "catboost"],
+  "feature_groups": ["college", "engineered", "hybrid"]
+}

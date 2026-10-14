@@ -1,0 +1,6 @@
+# Preserve exact file bytes used by SHA-256 provenance checks across platforms.
+* -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
+
+# Preserve the licensed upstream schema script exactly, including whitespace,
+# because the recorded source manifest binds its original bytes.
+data/raw/college_schema_reference.R -text whitespace=-blank-at-eol,-blank-at-eof

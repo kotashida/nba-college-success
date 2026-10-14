@@ -1,0 +1,127 @@
+{
+  "college_seasons": 65649,
+  "college_years": {
+    "2008": 4588,
+    "2009": 4589,
+    "2010": 4698,
+    "2011": 4548,
+    "2012": 4586,
+    "2013": 4608,
+    "2014": 4722,
+    "2015": 4724,
+    "2016": 4697,
+    "2017": 4743,
+    "2018": 4703,
+    "2019": 4740,
+    "2020": 4733,
+    "2021": 4970
+  },
+  "copy_agreement": {
+    "GP": {
+      "compared": 46885,
+      "disagreements": 0
+    },
+    "bpm": {
+      "compared": 46844,
+      "disagreements": 0
+    },
+    "pts": {
+      "compared": 46850,
+      "disagreements": 0
+    },
+    "FTM": {
+      "compared": 46885,
+      "disagreements": 0
+    },
+    "FTA": {
+      "compared": 46885,
+      "disagreements": 0
+    },
+    "TPM": {
+      "compared": 46885,
+      "disagreements": 0
+    },
+    "TPA": {
+      "compared": 46885,
+      "disagreements": 0
+    },
+    "height": {
+      "compared": 46524,
+      "disagreements": 0
+    }
+  },
+  "nba_coverage": {
+    "1995": 407,
+    "1996": 429,
+    "1997": 441,
+    "1998": 439,
+    "1999": 440,
+    "2000": 439,
+    "2001": 441,
+    "2002": 440,
+    "2003": 428,
+    "2004": 442,
+    "2005": 464,
+    "2006": 458,
+    "2007": 458,
+    "2008": 451,
+    "2009": 445,
+    "2010": 442,
+    "2011": 452,
+    "2012": 478,
+    "2013": 469,
+    "2014": 482,
+    "2015": 492,
+    "2016": 476,
+    "2017": 486,
+    "2018": 540,
+    "2019": 530,
+    "2020": 529,
+    "2021": 540,
+    "2022": 605,
+    "2023": 539,
+    "2024": 572,
+    "2025": 569,
+    "2026": 582
+  },
+  "eligible_prospects": 663,
+  "cohorts": {
+    "2008": 44,
+    "2009": 45,
+    "2010": 51,
+    "2011": 46,
+    "2012": 50,
+    "2013": 45,
+    "2014": 46,
+    "2015": 45,
+    "2016": 43,
+    "2017": 50,
+    "2018": 49,
+    "2019": 51,
+    "2020": 48,
+    "2021": 50
+  },
+  "outcome_links": {
+    "unique NBA name": 622,
+    "no NBA record; assumed zero": 41
+  },
+  "exclusions": {
+    "no dated name-and-school college match": 173,
+    "ambiguous NBA name; no inferred identity": 2,
+    "NBA identity already active before draft": 2
+  },
+  "source_manifest_sha256": "d4401a90f4fe50f8a3964347b3428238f45572ebba7d421642de34e6a1e581f6",
+  "source_quality_policy": {
+    "masked_college_fields": [
+      {
+        "player": "Cade Cunningham",
+        "season": 2021,
+        "field": "pts",
+        "archive_value": 20.2222,
+        "espn_value": 20.1,
+        "evidence": "espn_college_4432166.json, regular-season averages, year 2021",
+        "decision": "Provider disagreement exceeds rounding tolerance; preserve raw sources and mask this predictor before model development."
+      }
+    ]
+  }
+}

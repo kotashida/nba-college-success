@@ -1,0 +1,32 @@
+{
+  "status": "passed",
+  "target_field_checks": 3315,
+  "test_metric_rows": 195,
+  "frozen_model_cohort_checks": 130,
+  "nested_metric_rows": 90,
+  "nested_metric_max_absolute_differences": {
+    "n": 0.0,
+    "loss": 1.0170371456119653e-07,
+    "rmse": 4.3724371678877105e-08,
+    "mae": 3.1626954388741524e-08,
+    "r2": 9.491637438518996e-08,
+    "spearman": 5.551115123125783e-17,
+    "brier": 2.778214758247799e-08,
+    "log_loss": 5.8001965785869913e-08,
+    "auc": 0.0,
+    "ap": 5.551115123125783e-17,
+    "prevalence": 5.551115123125783e-17
+  },
+  "max_prediction_difference": 2.7284841053187847e-12,
+  "bootstrap_targets": 5,
+  "trial_evaluations": 1095,
+  "disqualified_trials": 0,
+  "protected_hashes": {
+    "freeze.json": "21993370b7333d476f37b8d3808c345bb3935f249f119f3872395be89ae793f6",
+    "test_receipt.json": "caa133b8d5d0f868a9438ca5aa4c7e2a29e87c60173e0fdbe797b65074bd6f52",
+    "test_predictions.csv": "abf8caffca40c878313b7c42d544659e23ffd2a2272726e422ca380fa61a597b",
+    "test_scores.csv": "6107c831a434af5c9016aaf5fa4738f16084f33a9c74e3b41f000d68bbbb5496",
+    "test_summary.json": "d6957ea22169f8dc983f024b702863ad94dbb2daa110238901447690c0ff5658"
+  },
+  "limitations": "Recalculation from recorded snapshots verifies implementation consistency, not provider truth or historical point-in-time availability. No tuning performed."
+}

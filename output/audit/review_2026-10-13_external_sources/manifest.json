@@ -1,0 +1,212 @@
+{
+  "3934672_identity.json": {
+    "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/nba/athletes/3934672?lang=en&region=us",
+    "retrieved_utc": "2026-10-14T03:22:34.342962+00:00",
+    "http_status": 200,
+    "bytes": 5765,
+    "sha256": "0e885b7bc685863d3fdf72e7b4eb0ffa04aeb3a595bb0a60603dd42c458ff5d6"
+  },
+  "3934672_stats.json": {
+    "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/3934672/stats?region=us&lang=en&contentorigin=espn&isqualified=true&seasontype=2&page=1&limit=100",
+    "retrieved_utc": "2026-10-14T03:22:34.344109+00:00",
+    "http_status": 200,
+    "bytes": 26041,
+    "sha256": "bb0541f599e9d02c4e3e308a867592c6bec48f0c5bc2ba4f30f40c45c59b7db1"
+  },
+  "3133601_identity.json": {
+    "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/nba/athletes/3133601?lang=en&region=us",
+    "retrieved_utc": "2026-10-14T03:22:34.383078+00:00",
+    "http_status": 200,
+    "bytes": 5135,
+    "sha256": "b29ed7418782dc20b77a99c176385737859a7ebc3ad185da6cfba87b8b017f14"
+  },
+  "3133601_stats.json": {
+    "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/3133601/stats?region=us&lang=en&contentorigin=espn&isqualified=true&seasontype=2&page=1&limit=100",
+    "retrieved_utc": "2026-10-14T03:22:34.452596+00:00",
+    "http_status": 200,
+    "bytes": 32532,
+    "sha256": "4129417191f353d5633a0b59a9714be9a9372b4620de03a95fba1e15b96a5a44"
+  },
+  "3915195_identity.json": {
+    "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/nba/athletes/3915195?lang=en&region=us",
+    "retrieved_utc": "2026-10-14T03:22:35.070478+00:00",
+    "http_status": 200,
+    "bytes": 5112,
+    "sha256": "d90a13493eb82ea9c2630d2398cfb19eb930936cdd7e527b80a0600558f67cac"
+  },
+  "3915195_stats.json": {
+    "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/3915195/stats?region=us&lang=en&contentorigin=espn&isqualified=true&seasontype=2&page=1&limit=100",
+    "retrieved_utc": "2026-10-14T03:22:35.274961+00:00",
+    "http_status": 200,
+    "bytes": 54142,
+    "sha256": "66385167121d061b2e4813a36cc3577cbf5d48a1412273bbb23bc511de4d9533"
+  },
+  "4279888_identity.json": {
+    "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/nba/athletes/4279888?lang=en&region=us",
+    "retrieved_utc": "2026-10-14T03:22:34.958677+00:00",
+    "http_status": 200,
+    "bytes": 5904,
+    "sha256": "432e9630678e8cfcfbaa29249f80b32c0310f59029f368e2cb84b49cc5864b11"
+  },
+  "4279888_stats.json": {
+    "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4279888/stats?region=us&lang=en&contentorigin=espn&isqualified=true&seasontype=2&page=1&limit=100",
+    "retrieved_utc": "2026-10-14T03:22:35.082873+00:00",
+    "http_status": 200,
+    "bytes": 19071,
+    "sha256": "e1c6df1ab06bda8455fcd410fe9e1265f1a925a1b94093fba197e0cbdd4155ed"
+  },
+  "4395627_identity.json": {
+    "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/nba/athletes/4395627?lang=en&region=us",
+    "retrieved_utc": "2026-10-14T03:22:35.583081+00:00",
+    "http_status": 200,
+    "bytes": 5236,
+    "sha256": "cc9ae065a3df2c4c11959bbf8ed20fd91aaa7b0f7aebef08026099f49fb136cb"
+  },
+  "4395627_stats.json": {
+    "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4395627/stats?region=us&lang=en&contentorigin=espn&isqualified=true&seasontype=2&page=1&limit=100",
+    "retrieved_utc": "2026-10-14T03:22:35.782699+00:00",
+    "http_status": 200,
+    "bytes": 40124,
+    "sha256": "096e73162ec4ea4b9f4d29e6fdcb93f0007e0cb4b1008a93fda42890d38fd1e2"
+  },
+  "4397205_identity.json": {
+    "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/nba/athletes/4397205?lang=en&region=us",
+    "retrieved_utc": "2026-10-14T03:22:35.565567+00:00",
+    "http_status": 200,
+    "bytes": 5159,
+    "sha256": "b1d93c10250ac10499b7808b5de76de792df235dd2d560efd38659cd60cdac8f"
+  },
+  "4397205_stats.json": {
+    "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4397205/stats?region=us&lang=en&contentorigin=espn&isqualified=true&seasontype=2&page=1&limit=100",
+    "retrieved_utc": "2026-10-14T03:22:35.892648+00:00",
+    "http_status": 200,
+    "bytes": 30647,
+    "sha256": "b2c4843127238c802442508397b1a5402d6fd02fa84299942a0d6acda90db900"
+  },
+  "4594268_identity.json": {
+    "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/nba/athletes/4594268?lang=en&region=us",
+    "retrieved_utc": "2026-10-14T03:22:36.063000+00:00",
+    "http_status": 200,
+    "bytes": 5919,
+    "sha256": "1b1cdf66173ca7818bc0f79f6f9734bc0be9b066cd7237eb16767e41a9615337"
+  },
+  "4594268_stats.json": {
+    "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4594268/stats?region=us&lang=en&contentorigin=espn&isqualified=true&seasontype=2&page=1&limit=100",
+    "retrieved_utc": "2026-10-14T03:22:36.312621+00:00",
+    "http_status": 200,
+    "bytes": 18622,
+    "sha256": "884c893906db491f913205b83c849e47c968d2aac73dc9b476f85d3b323b141f"
+  },
+  "4396993_identity.json": {
+    "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/nba/athletes/4396993?lang=en&region=us",
+    "retrieved_utc": "2026-10-14T03:22:36.794339+00:00",
+    "http_status": 200,
+    "bytes": 5951,
+    "sha256": "69e629d547d8c6957200354442c38cb2341db554a0556bbfbfd75e980ccc9f01"
+  },
+  "4396993_stats.json": {
+    "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4396993/stats?region=us&lang=en&contentorigin=espn&isqualified=true&seasontype=2&page=1&limit=100",
+    "retrieved_utc": "2026-10-14T03:22:36.922603+00:00",
+    "http_status": 200,
+    "bytes": 25474,
+    "sha256": "6e919c387d41bbbf825983e03759720f64182ce0c4fa83a7c8caddbeebc53933"
+  },
+  "4066320_identity.json": {
+    "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/nba/athletes/4066320?lang=en&region=us",
+    "retrieved_utc": "2026-10-14T03:22:36.874076+00:00",
+    "http_status": 200,
+    "bytes": 5946,
+    "sha256": "1a88e019bbfde88727012ee7e3810e13a3c05c8caa1c7ab7ffd94fe19e4fa691"
+  },
+  "4066320_stats.json": {
+    "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4066320/stats?region=us&lang=en&contentorigin=espn&isqualified=true&seasontype=2&page=1&limit=100",
+    "retrieved_utc": "2026-10-14T03:22:37.162901+00:00",
+    "http_status": 200,
+    "bytes": 24789,
+    "sha256": "625f3e3221d8d8363fc9541997b8b464ed629f78de995d6f57c0473bbc6a72e4"
+  },
+  "4395702_identity.json": {
+    "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/nba/athletes/4395702?lang=en&region=us",
+    "retrieved_utc": "2026-10-14T03:22:37.632826+00:00",
+    "http_status": 200,
+    "bytes": 5717,
+    "sha256": "e6d2dcd600e23ce806dd1d75bcb95199efb7deedb12d43a4fca0a3b5b6abb409"
+  },
+  "4395702_stats.json": {
+    "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4395702/stats?region=us&lang=en&contentorigin=espn&isqualified=true&seasontype=2&page=1&limit=100",
+    "retrieved_utc": "2026-10-14T03:22:37.934162+00:00",
+    "http_status": 200,
+    "bytes": 24912,
+    "sha256": "4efe6fa05273ebefa3da2d81ebaa19aa0cc9d30c74b99bd2da6f9ab1c9da52b6"
+  },
+  "4066632_identity.json": {
+    "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/nba/athletes/4066632?lang=en&region=us",
+    "retrieved_utc": "2026-10-14T03:22:37.755616+00:00",
+    "http_status": 200,
+    "bytes": 4733,
+    "sha256": "07128664f615a10770394b66e8b6a639e926d6364f4145eef3f67268643a5623"
+  },
+  "4066632_stats.json": {
+    "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4066632/stats?region=us&lang=en&contentorigin=espn&isqualified=true&seasontype=2&page=1&limit=100",
+    "retrieved_utc": "2026-10-14T03:22:38.212896+00:00",
+    "http_status": 200,
+    "bytes": 272,
+    "sha256": "6bca300d01c9d1f2b989b6787e7f4f583ca725fae0dafcecd432cea865676d6c"
+  },
+  "4433134_identity.json": {
+    "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/nba/athletes/4433134?lang=en&region=us",
+    "retrieved_utc": "2026-10-14T03:22:38.610688+00:00",
+    "http_status": 200,
+    "bytes": 5900,
+    "sha256": "615bea25b5ecbb1da445523fa7dbe89745510f0959995b418dfe6c46c831a8a4"
+  },
+  "4433134_stats.json": {
+    "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4433134/stats?region=us&lang=en&contentorigin=espn&isqualified=true&seasontype=2&page=1&limit=100",
+    "retrieved_utc": "2026-10-14T03:22:38.782776+00:00",
+    "http_status": 200,
+    "bytes": 17797,
+    "sha256": "6679730ff64b456aefb0bcdf384d14c1d354cb0f3b007266934c6dc41542470f"
+  },
+  "4397036_identity.json": {
+    "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/nba/athletes/4397036?lang=en&region=us",
+    "retrieved_utc": "2026-10-14T03:22:38.762784+00:00",
+    "http_status": 200,
+    "bytes": 4773,
+    "sha256": "e29d381bfbdd4860c5dced066bd99b04fe069a9eedd0e29c2eacbcde9e9daf87"
+  },
+  "4397036_stats.json": {
+    "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4397036/stats?region=us&lang=en&contentorigin=espn&isqualified=true&seasontype=2&page=1&limit=100",
+    "retrieved_utc": "2026-10-14T03:22:39.183350+00:00",
+    "http_status": 200,
+    "bytes": 272,
+    "sha256": "6bca300d01c9d1f2b989b6787e7f4f583ca725fae0dafcecd432cea865676d6c"
+  },
+  "4397183_identity.json": {
+    "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/nba/athletes/4397183?lang=en&region=us",
+    "retrieved_utc": "2026-10-14T03:22:39.544447+00:00",
+    "http_status": 200,
+    "bytes": 5807,
+    "sha256": "a0821c33ef7ea1b9ab40ea2dc9a56ac45082afbfa28ff73d1641001fe7e4deeb"
+  },
+  "4397183_stats.json": {
+    "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4397183/stats?region=us&lang=en&contentorigin=espn&isqualified=true&seasontype=2&page=1&limit=100",
+    "retrieved_utc": "2026-10-14T03:22:39.562833+00:00",
+    "http_status": 200,
+    "bytes": 17891,
+    "sha256": "2a0abf6b2636a2efacd0bd67c5241f4a310880e265d7656aa12319be4a145dc6"
+  },
+  "4432829_identity.json": {
+    "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/nba/athletes/4432829?lang=en&region=us",
+    "retrieved_utc": "2026-10-14T03:22:39.502915+00:00",
+    "http_status": 200,
+    "bytes": 4482,
+    "sha256": "68ff16b5eb67b0348007830941838639fe3714d0b87676f88ab1052cf2f2efc2"
+  },
+  "4432829_stats.json": {
+    "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4432829/stats?region=us&lang=en&contentorigin=espn&isqualified=true&seasontype=2&page=1&limit=100",
+    "retrieved_utc": "2026-10-14T03:22:40.003067+00:00",
+    "http_status": 200,
+    "bytes": 272,
+    "sha256": "6bca300d01c9d1f2b989b6787e7f4f583ca725fae0dafcecd432cea865676d6c"
+  }
+}

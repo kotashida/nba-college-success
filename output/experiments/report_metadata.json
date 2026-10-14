@@ -1,0 +1,34 @@
+{
+  "development_focal_target": "minutes5",
+  "development_relative_skills": {
+    "vorp5": 0.15026795981155927,
+    "minutes5": 0.2149718460375657,
+    "active5": 0.17403572897527142,
+    "rotation5": 0.08684886784556933,
+    "starter5": 0.08564076763507977
+  },
+  "interpretation_model": {
+    "family": "random_forest",
+    "group": "engineered",
+    "transform": "asinh",
+    "params": {
+      "n_estimators": 200,
+      "max_depth": 3,
+      "min_samples_leaf": 5,
+      "max_features": 0.7
+    }
+  },
+  "interpretation_fit_through": 2015,
+  "interpretation_cohort": 2019,
+  "plots": [
+    "cohort_missingness.pdf",
+    "college_relationships.pdf",
+    "development_comparison.pdf",
+    "outcome_distributions.pdf",
+    "permutation_diagnostic.pdf",
+    "residuals.pdf",
+    "shap_diagnostic.pdf",
+    "test_calibration.pdf",
+    "test_regression.pdf"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "evaluated_utc": "2026-10-09T21:33:49.435672+00:00",
+  "freeze_sha256": "21993370b7333d476f37b8d3808c345bb3935f249f119f3872395be89ae793f6",
+  "predictions_sha256": "abf8caffca40c878313b7c42d544659e23ffd2a2272726e422ca380fa61a597b",
+  "summary_sha256": "d6957ea22169f8dc983f024b702863ad94dbb2daa110238901447690c0ff5658",
+  "scores_sha256": "6107c831a434af5c9016aaf5fa4738f16084f33a9c74e3b41f000d68bbbb5496",
+  "policy": "Test consumed; no further tuning or target selection from its scores."
+}

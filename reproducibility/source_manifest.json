@@ -1,0 +1,230 @@
+{
+  "college.csv": {
+    "url": "https://raw.githubusercontent.com/warrensuca/nba-role-player-prediction-model/0524c1e21992bc3e55197a467ead6e6262c4c200/data/cbb.csv",
+    "retrieved_utc": "2026-10-09T21:09:35.737057+00:00",
+    "sha256": "b57983616e75679130fcca5912f8d1ea0f6c1512105f29c86b17fd9f00506f8d",
+    "bytes": 21287039
+  },
+  "nba_advanced.csv": {
+    "url": "https://raw.githubusercontent.com/warrensuca/nba-role-player-prediction-model/0524c1e21992bc3e55197a467ead6e6262c4c200/data/nba_advanced.csv",
+    "retrieved_utc": "2026-10-09T21:09:38.222210+00:00",
+    "sha256": "e1616ffe7759c22b014cbbb7c7ce10a591615e7ef1e08cc0dba4d2a02872948d",
+    "bytes": 4629394
+  },
+  "nba_per_game.csv": {
+    "url": "https://raw.githubusercontent.com/warrensuca/nba-role-player-prediction-model/0524c1e21992bc3e55197a467ead6e6262c4c200/data/nba_per_game.csv",
+    "retrieved_utc": "2026-10-09T21:09:40.820018+00:00",
+    "sha256": "2deb3c12f6cf2c0f4102e35251cdec6baec52406df82a7d2503ca505c650f393",
+    "bytes": 4687760
+  },
+  "college_schema_reference.R": {
+    "url": "https://raw.githubusercontent.com/mathgonzaga/NBADraftModel/099a9fc5776a25d72ceae5fb9a8cb09b67890c1c/1_clean_college_data.R",
+    "retrieved_utc": "2026-10-09T21:09:41.977603+00:00",
+    "sha256": "a3deddd8ad910faf311d9002c798e1882b65f89866c073615646ecc3cbc17043",
+    "bytes": 3029
+  },
+  "college_uncorrupted_2009.csv": {
+    "url": "https://raw.githubusercontent.com/mathgonzaga/NBADraftModel/099a9fc5776a25d72ceae5fb9a8cb09b67890c1c/data/raw/trank_data%20%280%29.csv",
+    "retrieved_utc": "2026-10-09T21:09:43.902359+00:00",
+    "sha256": "c0092ddbf075e5bf6ef758505683e355dbaaeda6ccf7ab2aff78607a1476b6b2",
+    "bytes": 1528946
+  },
+  "draft_2009.json": {
+    "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/draft?season=2009",
+    "retrieved_utc": "2026-10-09T21:09:45.527276+00:00",
+    "sha256": "2ac8f660c6a6f88c795174b3bb9b960a7848fb1bedbe6000d3488795075ee382",
+    "bytes": 52076
+  },
+  "draft_2010.json": {
+    "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/draft?season=2010",
+    "retrieved_utc": "2026-10-09T21:09:46.878083+00:00",
+    "sha256": "5fa79dce976a852f55963442866f744a3fc36fac4629ac16b7e79d1be6f18a13",
+    "bytes": 52616
+  },
+  "draft_2011.json": {
+    "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/draft?season=2011",
+    "retrieved_utc": "2026-10-09T21:09:48.083863+00:00",
+    "sha256": "d17e78ea8771710a96fadb2a367a407693bdf467bfe064b14a2139eaee5b91d6",
+    "bytes": 51527
+  },
+  "draft_2012.json": {
+    "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/draft?season=2012",
+    "retrieved_utc": "2026-10-09T21:09:49.556800+00:00",
+    "sha256": "1ecd087607a23111a0202cf2331195f0bf06c699efa36fb93ea6cfc8e1d781ae",
+    "bytes": 52157
+  },
+  "draft_2013.json": {
+    "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/draft?season=2013",
+    "retrieved_utc": "2026-10-09T21:09:51.038965+00:00",
+    "sha256": "92103ae38778173b9609ea64efce04cf6e473a90d014869ae4e7134e49fa3e45",
+    "bytes": 51942
+  },
+  "draft_2014.json": {
+    "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/draft?season=2014",
+    "retrieved_utc": "2026-10-09T21:09:52.250510+00:00",
+    "sha256": "a11eddfc4e4aa6d4d43510a8b6b817f751cd26e0a0b19c496002c8616db18b6a",
+    "bytes": 51835
+  },
+  "draft_2015.json": {
+    "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/draft?season=2015",
+    "retrieved_utc": "2026-10-09T21:09:53.747256+00:00",
+    "sha256": "3f60641166be00154ecbf554a1486ef46dc08fea1f191e1a58f05bdf1c8f49a6",
+    "bytes": 54108
+  },
+  "draft_2016.json": {
+    "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/draft?season=2016",
+    "retrieved_utc": "2026-10-09T21:09:55.001032+00:00",
+    "sha256": "dd48ead78d3309be48c4bb49143f4c55602f22c4a9bc9415f00414eb90ee1e44",
+    "bytes": 56077
+  },
+  "draft_2017.json": {
+    "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/draft?season=2017",
+    "retrieved_utc": "2026-10-09T21:09:56.487087+00:00",
+    "sha256": "4cbe13deca9345ccde1c04daed6aeaafce9a7d77717d12837634beffbd10de24",
+    "bytes": 64070
+  },
+  "draft_2018.json": {
+    "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/draft?season=2018",
+    "retrieved_utc": "2026-10-09T21:09:57.720756+00:00",
+    "sha256": "94c216212cb3994772e8d18de8c57724fb734940d4b26f0cfa7c5f3d3c968014",
+    "bytes": 61143
+  },
+  "draft_2019.json": {
+    "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/draft?season=2019",
+    "retrieved_utc": "2026-10-09T21:09:59.279707+00:00",
+    "sha256": "2aa2cb18887ab6a65d4f8ccc7f4025863f3c1fd68fb1396c559b777502854e65",
+    "bytes": 63201
+  },
+  "draft_2020.json": {
+    "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/draft?season=2020",
+    "retrieved_utc": "2026-10-09T21:10:00.653726+00:00",
+    "sha256": "8bbf504cfdfaba522bbfca6cf5a2a64e431db4346cc8440bd30889d4393a9dcb",
+    "bytes": 61879
+  },
+  "draft_2021.json": {
+    "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/draft?season=2021",
+    "retrieved_utc": "2026-10-09T21:10:02.200290+00:00",
+    "sha256": "e487a580ae47c86c21fca14a38f580d96b697250d282ea7ee9bca16b1a44a4d8",
+    "bytes": 62128
+  },
+  "combine.csv": {
+    "url": "https://stats.nba.com/stats/draftcombineplayeranthro and draftcombinestats",
+    "retrieved_utc": "Original local snapshot; collection date unknown",
+    "sha256": "7e772e52b97d1371916827ba6c36d7bfc73d89a48e693c7080be49cd5651e361",
+    "bytes": 281864
+  },
+  "college_original_1.csv": {
+    "url": "https://raw.githubusercontent.com/mathgonzaga/NBADraftModel/099a9fc5776a25d72ceae5fb9a8cb09b67890c1c/data/raw/trank_data%20%281%29.csv",
+    "retrieved_utc": "2026-10-09T21:10:40.718803+00:00",
+    "sha256": "64d0d8a7d46431ba0b8dd28112a23cb23046bd2992dd1d40d61da52f1f21f51e",
+    "bytes": 1529644
+  },
+  "college_original_2.csv": {
+    "url": "https://raw.githubusercontent.com/mathgonzaga/NBADraftModel/099a9fc5776a25d72ceae5fb9a8cb09b67890c1c/data/raw/trank_data%20%282%29.csv",
+    "retrieved_utc": "2026-10-09T21:10:42.619888+00:00",
+    "sha256": "ba5eca8b66f7ae9e27f960e7558c3652fa5f642bc56101a8721b66eeac581751",
+    "bytes": 1709806
+  },
+  "college_original_3.csv": {
+    "url": "https://raw.githubusercontent.com/mathgonzaga/NBADraftModel/099a9fc5776a25d72ceae5fb9a8cb09b67890c1c/data/raw/trank_data%20%283%29.csv",
+    "retrieved_utc": "2026-10-09T21:10:44.833435+00:00",
+    "sha256": "2cb89b97a2a0c3127a8b2f2605d14dabaa8114b92d24fa430a65b87d6fda8497",
+    "bytes": 1664643
+  },
+  "college_original_4.csv": {
+    "url": "https://raw.githubusercontent.com/mathgonzaga/NBADraftModel/099a9fc5776a25d72ceae5fb9a8cb09b67890c1c/data/raw/trank_data%20%284%29.csv",
+    "retrieved_utc": "2026-10-09T21:10:47.061636+00:00",
+    "sha256": "2fb1c9ba38c28d256b57b0af6ceb92ffaaa04398fed87fb4f58aa45793e8ed4f",
+    "bytes": 1676763
+  },
+  "college_original_5.csv": {
+    "url": "https://raw.githubusercontent.com/mathgonzaga/NBADraftModel/099a9fc5776a25d72ceae5fb9a8cb09b67890c1c/data/raw/trank_data%20%285%29.csv",
+    "retrieved_utc": "2026-10-09T21:10:49.291359+00:00",
+    "sha256": "08d5b17a5f6165ad4327f543b3d8636a9db3bbef65a0894fadd1b8ff85d8fa9e",
+    "bytes": 1684951
+  },
+  "college_original_6.csv": {
+    "url": "https://raw.githubusercontent.com/mathgonzaga/NBADraftModel/099a9fc5776a25d72ceae5fb9a8cb09b67890c1c/data/raw/trank_data%20%286%29.csv",
+    "retrieved_utc": "2026-10-09T21:10:51.695236+00:00",
+    "sha256": "01440e031c497c270576a8a2fa7393d7f3d2a7042250dc9c42b8ac9788d01ac0",
+    "bytes": 1725548
+  },
+  "college_original_7.csv": {
+    "url": "https://raw.githubusercontent.com/mathgonzaga/NBADraftModel/099a9fc5776a25d72ceae5fb9a8cb09b67890c1c/data/raw/trank_data%20%287%29.csv",
+    "retrieved_utc": "2026-10-09T21:10:54.082215+00:00",
+    "sha256": "4d717594f5cefee8779ec19f576ab6fc994aa0a65ac2adc84bbaed9438e0526b",
+    "bytes": 1728033
+  },
+  "college_original_8.csv": {
+    "url": "https://raw.githubusercontent.com/mathgonzaga/NBADraftModel/099a9fc5776a25d72ceae5fb9a8cb09b67890c1c/data/raw/trank_data%20%288%29.csv",
+    "retrieved_utc": "2026-10-09T21:10:56.292901+00:00",
+    "sha256": "33fbc089083c3db0773b17e416a956f49a4d495b3325ae20ef424d8fce5dda13",
+    "bytes": 1722329
+  },
+  "college_original_9.csv": {
+    "url": "https://raw.githubusercontent.com/mathgonzaga/NBADraftModel/099a9fc5776a25d72ceae5fb9a8cb09b67890c1c/data/raw/trank_data%20%289%29.csv",
+    "retrieved_utc": "2026-10-09T21:10:59.372647+00:00",
+    "sha256": "2b164b85257db2bd9c8139cd1dd8e973c7faa2df6d5da34d507de36c1eb8366a",
+    "bytes": 1738089
+  },
+  "college_original_10.csv": {
+    "url": "https://raw.githubusercontent.com/mathgonzaga/NBADraftModel/099a9fc5776a25d72ceae5fb9a8cb09b67890c1c/data/raw/trank_data%20%2810%29.csv",
+    "retrieved_utc": "2026-10-09T21:11:01.703266+00:00",
+    "sha256": "4c6626091dd5289496d2473bb45785f32deb39c9b7b56d75ec583a8cb5b76a42",
+    "bytes": 1797805
+  },
+  "espn_stats_4432166.json": {
+    "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4432166/stats?region=us&lang=en&contentorigin=espn&isqualified=true&page=1&limit=100",
+    "retrieved_utc": "2026-10-09T21:11:03.629169+00:00",
+    "sha256": "163498191c16396e852bf237d2ea79d2eaf686641644e00e7fb89e0d35c95da1",
+    "bytes": 17730
+  },
+  "espn_stats_4432158.json": {
+    "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4432158/stats?region=us&lang=en&contentorigin=espn&isqualified=true&page=1&limit=100",
+    "retrieved_utc": "2026-10-09T21:11:05.629066+00:00",
+    "sha256": "c04f1398e8a7208c08e37f57024efcaf422ccfb05bdcb11848385ba35235a7d6",
+    "bytes": 17873
+  },
+  "espn_stats_4432816.json": {
+    "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4432816/stats?region=us&lang=en&contentorigin=espn&isqualified=true&page=1&limit=100",
+    "retrieved_utc": "2026-10-09T21:11:07.627849+00:00",
+    "sha256": "ab0ee971b09d33b1faf94b96d63d8988524b4244c136f7ceae18d01d1a601330",
+    "bytes": 18327
+  },
+  "espn_stats_4278031.json": {
+    "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/4278031/stats?region=us&lang=en&contentorigin=espn&isqualified=true&page=1&limit=100",
+    "retrieved_utc": "2026-10-09T21:11:09.600989+00:00",
+    "sha256": "62dee8092647ccb36678ab537262d4645fe9e29c625ac8c15974a3531cf430c6",
+    "bytes": 37476
+  },
+  "draft_2008.json": {
+    "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/draft?season=2008",
+    "retrieved_utc": "2026-10-09T21:14:03.097014+00:00",
+    "sha256": "4d42bca3502e38af227827849dd4b923f879cb7c4319a218f2b73d84353e081a",
+    "bytes": 51448
+  },
+  "espn_college_4432166.json": {
+    "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/mens-college-basketball/athletes/4432166/stats?region=us&lang=en&contentorigin=espn&isqualified=true&page=1&limit=100",
+    "retrieved_utc": "2026-10-09T21:20:23.649515+00:00",
+    "sha256": "3b3b6aacd6369cb477d626c224ca5fb1bb336f02305bb86ea80894d3c5943ced",
+    "bytes": 14073
+  },
+  "espn_college_4432158.json": {
+    "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/mens-college-basketball/athletes/4432158/stats?region=us&lang=en&contentorigin=espn&isqualified=true&page=1&limit=100",
+    "retrieved_utc": "2026-10-09T21:20:25.274297+00:00",
+    "sha256": "fad45bcd42f5b4c57933673ea43e669dbad63f6dc2421fa60bf51dede9a36efb",
+    "bytes": 13934
+  },
+  "espn_college_4395628.json": {
+    "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/mens-college-basketball/athletes/4395628/stats?region=us&lang=en&contentorigin=espn&isqualified=true&page=1&limit=100",
+    "retrieved_utc": "2026-10-09T21:20:26.854522+00:00",
+    "sha256": "e714db60059d716c273f1cf723fed9b5c8815879cbc4d2379f3016251045fe9b",
+    "bytes": 14003
+  },
+  "espn_college_4396993.json": {
+    "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/mens-college-basketball/athletes/4396993/stats?region=us&lang=en&contentorigin=espn&isqualified=true&page=1&limit=100",
+    "retrieved_utc": "2026-10-09T21:20:28.504456+00:00",
+    "sha256": "9b18ff3ce0e968001a1539cb782c382ecb281d217a85b35e12f5d036c9d8538d",
+    "bytes": 14653
+  }
+}

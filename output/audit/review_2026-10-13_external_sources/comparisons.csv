@@ -1,0 +1,175 @@
+player,draft_year,season,field,espn,archive,tolerance,agrees,source_file,note
+Jalen Brunson,2018,2019,g,73.0,73.0,0.0,True,3934672_stats.json,exact count
+Jalen Brunson,2018,2019,gs,38.0,38.0,0.0,True,3934672_stats.json,exact count
+Jalen Brunson,2018,2019,mp,1591.4,1591.0,4.01500001,True,3934672_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Jalen Brunson,2018,2020,g,57.0,57.0,0.0,True,3934672_stats.json,exact count
+Jalen Brunson,2018,2020,gs,16.0,16.0,0.0,True,3934672_stats.json,exact count
+Jalen Brunson,2018,2020,mp,1020.3,1022.0,3.13500001,True,3934672_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Jalen Brunson,2018,2021,g,68.0,68.0,0.0,True,3934672_stats.json,exact count
+Jalen Brunson,2018,2021,gs,12.0,12.0,0.0,True,3934672_stats.json,exact count
+Jalen Brunson,2018,2021,mp,1700.0,1697.0,3.74000001,True,3934672_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Jalen Brunson,2018,2022,g,79.0,79.0,0.0,True,3934672_stats.json,exact count
+Jalen Brunson,2018,2022,gs,61.0,61.0,0.0,True,3934672_stats.json,exact count
+Jalen Brunson,2018,2022,mp,2520.1,2524.0,4.34500001,True,3934672_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Jalen Brunson,2018,2023,g,68.0,68.0,0.0,True,3934672_stats.json,exact count
+Jalen Brunson,2018,2023,gs,68.0,68.0,0.0,True,3934672_stats.json,exact count
+Jalen Brunson,2018,2023,mp,2380.0,2379.0,3.74000001,True,3934672_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Devonte' Graham,2018,2019,g,46.0,46.0,0.0,True,3133601_stats.json,exact count
+Devonte' Graham,2018,2019,gs,3.0,3.0,0.0,True,3133601_stats.json,exact count
+Devonte' Graham,2018,2019,mp,676.1999999999999,676.0,2.5300000099999997,True,3133601_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Devonte' Graham,2018,2020,g,63.0,63.0,0.0,True,3133601_stats.json,exact count
+Devonte' Graham,2018,2020,gs,53.0,53.0,0.0,True,3133601_stats.json,exact count
+Devonte' Graham,2018,2020,mp,2211.3,2211.0,3.46500001,True,3133601_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Devonte' Graham,2018,2021,g,55.0,55.0,0.0,True,3133601_stats.json,exact count
+Devonte' Graham,2018,2021,gs,44.0,44.0,0.0,True,3133601_stats.json,exact count
+Devonte' Graham,2018,2021,mp,1661.0,1659.0,3.02500001,True,3133601_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Devonte' Graham,2018,2022,g,76.0,76.0,0.0,True,3133601_stats.json,exact count
+Devonte' Graham,2018,2022,gs,63.0,63.0,0.0,True,3133601_stats.json,exact count
+Devonte' Graham,2018,2022,mp,2158.4,2162.0,4.18000001,True,3133601_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Devonte' Graham,2018,2023,g,73.0,73.0,0.0,True,3133601_stats.json,exact count
+Devonte' Graham,2018,2023,gs,8.0,8.0,0.0,True,3133601_stats.json,exact count
+Devonte' Graham,2018,2023,mp,1335.9,1338.0,4.01500001,True,3133601_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Shake Milton,2018,2019,g,20.0,20.0,0.0,True,3915195_stats.json,exact count
+Shake Milton,2018,2019,gs,0.0,0.0,0.0,True,3915195_stats.json,exact count
+Shake Milton,2018,2019,mp,268.0,268.0,1.10000001,True,3915195_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Shake Milton,2018,2020,g,40.0,40.0,0.0,True,3915195_stats.json,exact count
+Shake Milton,2018,2020,gs,24.0,24.0,0.0,True,3915195_stats.json,exact count
+Shake Milton,2018,2020,mp,804.0,805.0,2.20000001,True,3915195_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Shake Milton,2018,2021,g,63.0,63.0,0.0,True,3915195_stats.json,exact count
+Shake Milton,2018,2021,gs,4.0,4.0,0.0,True,3915195_stats.json,exact count
+Shake Milton,2018,2021,mp,1461.6,1461.0,3.46500001,True,3915195_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Shake Milton,2018,2022,g,55.0,55.0,0.0,True,3915195_stats.json,exact count
+Shake Milton,2018,2022,gs,6.0,6.0,0.0,True,3915195_stats.json,exact count
+Shake Milton,2018,2022,mp,1177.0,1179.0,3.02500001,True,3915195_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Shake Milton,2018,2023,g,76.0,76.0,0.0,True,3915195_stats.json,exact count
+Shake Milton,2018,2023,gs,11.0,11.0,0.0,True,3915195_stats.json,exact count
+Shake Milton,2018,2023,mp,1565.6000000000001,1567.0,4.18000001,True,3915195_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Ja Morant,2019,2020,g,67.0,67.0,0.0,True,4279888_stats.json,exact count
+Ja Morant,2019,2020,gs,67.0,67.0,0.0,True,4279888_stats.json,exact count
+Ja Morant,2019,2020,mp,2077.0,2074.0,3.68500001,True,4279888_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Ja Morant,2019,2021,g,63.0,63.0,0.0,True,4279888_stats.json,exact count
+Ja Morant,2019,2021,gs,63.0,63.0,0.0,True,4279888_stats.json,exact count
+Ja Morant,2019,2021,mp,2053.8,2053.0,3.46500001,True,4279888_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Ja Morant,2019,2022,g,57.0,57.0,0.0,True,4279888_stats.json,exact count
+Ja Morant,2019,2022,gs,57.0,57.0,0.0,True,4279888_stats.json,exact count
+Ja Morant,2019,2022,mp,1886.7,1889.0,3.13500001,True,4279888_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Ja Morant,2019,2023,g,61.0,61.0,0.0,True,4279888_stats.json,exact count
+Ja Morant,2019,2023,gs,59.0,59.0,0.0,True,4279888_stats.json,exact count
+Ja Morant,2019,2023,mp,1945.8999999999999,1948.0,3.35500001,True,4279888_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Ja Morant,2019,2024,g,9.0,9.0,0.0,True,4279888_stats.json,exact count
+Ja Morant,2019,2024,gs,9.0,9.0,0.0,True,4279888_stats.json,exact count
+Ja Morant,2019,2024,mp,317.7,318.0,0.49500001,True,4279888_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Cam Reddish,2019,2020,g,58.0,58.0,0.0,True,4395627_stats.json,exact count
+Cam Reddish,2019,2020,gs,34.0,34.0,0.0,True,4395627_stats.json,exact count
+Cam Reddish,2019,2020,mp,1548.6,1551.0,3.19000001,True,4395627_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Cam Reddish,2019,2021,g,26.0,26.0,0.0,True,4395627_stats.json,exact count
+Cam Reddish,2019,2021,gs,21.0,21.0,0.0,True,4395627_stats.json,exact count
+Cam Reddish,2019,2021,mp,748.8000000000001,750.0,1.4300000099999999,True,4395627_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Cam Reddish,2019,2022,g,49.0,49.0,0.0,True,4395627_stats.json,exact count
+Cam Reddish,2019,2022,gs,7.0,7.0,0.0,True,4395627_stats.json,exact count
+Cam Reddish,2019,2022,mp,1014.3,1012.0,2.69500001,True,4395627_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Cam Reddish,2019,2023,g,40.0,40.0,0.0,True,4395627_stats.json,exact count
+Cam Reddish,2019,2023,gs,20.0,20.0,0.0,True,4395627_stats.json,exact count
+Cam Reddish,2019,2023,mp,992.0,990.0,2.20000001,True,4395627_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Cam Reddish,2019,2024,g,48.0,48.0,0.0,True,4395627_stats.json,exact count
+Cam Reddish,2019,2024,gs,26.0,26.0,0.0,True,4395627_stats.json,exact count
+Cam Reddish,2019,2024,mp,984.0,984.0,2.64000001,True,4395627_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Ignas Brazdeikis,2019,2020,g,9.0,9.0,0.0,True,4397205_stats.json,exact count
+Ignas Brazdeikis,2019,2020,gs,0.0,0.0,0.0,True,4397205_stats.json,exact count
+Ignas Brazdeikis,2019,2020,mp,53.1,53.0,0.49500001,True,4397205_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Ignas Brazdeikis,2019,2021,g,13.0,13.0,0.0,True,4397205_stats.json,exact count
+Ignas Brazdeikis,2019,2021,gs,0.0,0.0,0.0,True,4397205_stats.json,exact count
+Ignas Brazdeikis,2019,2021,mp,249.6,249.0,0.71500001,True,4397205_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Ignas Brazdeikis,2019,2022,g,42.0,42.0,0.0,True,4397205_stats.json,exact count
+Ignas Brazdeikis,2019,2022,gs,1.0,1.0,0.0,True,4397205_stats.json,exact count
+Ignas Brazdeikis,2019,2022,mp,537.6,536.0,2.31000001,True,4397205_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Anthony Edwards,2020,2021,g,72.0,72.0,0.0,True,4594268_stats.json,exact count
+Anthony Edwards,2020,2021,gs,55.0,55.0,0.0,True,4594268_stats.json,exact count
+Anthony Edwards,2020,2021,mp,2311.2000000000003,2314.0,3.96000001,True,4594268_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Anthony Edwards,2020,2022,g,72.0,72.0,0.0,True,4594268_stats.json,exact count
+Anthony Edwards,2020,2022,gs,72.0,72.0,0.0,True,4594268_stats.json,exact count
+Anthony Edwards,2020,2022,mp,2469.6,2466.0,3.96000001,True,4594268_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Anthony Edwards,2020,2023,g,79.0,79.0,0.0,True,4594268_stats.json,exact count
+Anthony Edwards,2020,2023,gs,79.0,79.0,0.0,True,4594268_stats.json,exact count
+Anthony Edwards,2020,2023,mp,2844.0,2842.0,4.34500001,True,4594268_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Anthony Edwards,2020,2024,g,79.0,79.0,0.0,True,4594268_stats.json,exact count
+Anthony Edwards,2020,2024,gs,78.0,78.0,0.0,True,4594268_stats.json,exact count
+Anthony Edwards,2020,2024,mp,2772.9,2770.0,4.34500001,True,4594268_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Anthony Edwards,2020,2025,g,79.0,79.0,0.0,True,4594268_stats.json,exact count
+Anthony Edwards,2020,2025,gs,79.0,79.0,0.0,True,4594268_stats.json,exact count
+Anthony Edwards,2020,2025,mp,2867.7,2871.0,4.34500001,True,4594268_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Tyrese Haliburton,2020,2021,g,58.0,58.0,0.0,True,4396993_stats.json,exact count
+Tyrese Haliburton,2020,2021,gs,20.0,20.0,0.0,True,4396993_stats.json,exact count
+Tyrese Haliburton,2020,2021,mp,1745.8000000000002,1746.0,3.19000001,True,4396993_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Tyrese Haliburton,2020,2022,g,77.0,77.0,0.0,True,4396993_stats.json,exact count
+Tyrese Haliburton,2020,2022,gs,77.0,77.0,0.0,True,4396993_stats.json,exact count
+Tyrese Haliburton,2020,2022,mp,2695.0,2695.0,4.23500001,True,4396993_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Tyrese Haliburton,2020,2023,g,56.0,56.0,0.0,True,4396993_stats.json,exact count
+Tyrese Haliburton,2020,2023,gs,56.0,56.0,0.0,True,4396993_stats.json,exact count
+Tyrese Haliburton,2020,2023,mp,1881.6000000000001,1883.0,3.08000001,True,4396993_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Tyrese Haliburton,2020,2024,g,69.0,69.0,0.0,True,4396993_stats.json,exact count
+Tyrese Haliburton,2020,2024,gs,68.0,68.0,0.0,True,4396993_stats.json,exact count
+Tyrese Haliburton,2020,2024,mp,2221.8,2224.0,3.79500001,True,4396993_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Tyrese Haliburton,2020,2025,g,73.0,73.0,0.0,True,4396993_stats.json,exact count
+Tyrese Haliburton,2020,2025,gs,73.0,73.0,0.0,True,4396993_stats.json,exact count
+Tyrese Haliburton,2020,2025,mp,2452.8,2451.0,4.01500001,True,4396993_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Desmond Bane,2020,2021,g,68.0,68.0,0.0,True,4066320_stats.json,exact count
+Desmond Bane,2020,2021,gs,17.0,17.0,0.0,True,4066320_stats.json,exact count
+Desmond Bane,2020,2021,mp,1516.4,1519.0,3.74000001,True,4066320_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Desmond Bane,2020,2022,g,76.0,76.0,0.0,True,4066320_stats.json,exact count
+Desmond Bane,2020,2022,gs,76.0,76.0,0.0,True,4066320_stats.json,exact count
+Desmond Bane,2020,2022,mp,2264.8,2266.0,4.18000001,True,4066320_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Desmond Bane,2020,2023,g,58.0,58.0,0.0,True,4066320_stats.json,exact count
+Desmond Bane,2020,2023,gs,58.0,58.0,0.0,True,4066320_stats.json,exact count
+Desmond Bane,2020,2023,mp,1838.6,1841.0,3.19000001,True,4066320_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Desmond Bane,2020,2024,g,42.0,42.0,0.0,True,4066320_stats.json,exact count
+Desmond Bane,2020,2024,gs,42.0,42.0,0.0,True,4066320_stats.json,exact count
+Desmond Bane,2020,2024,mp,1444.8,1443.0,2.31000001,True,4066320_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Desmond Bane,2020,2025,g,69.0,69.0,0.0,True,4066320_stats.json,exact count
+Desmond Bane,2020,2025,gs,68.0,68.0,0.0,True,4066320_stats.json,exact count
+Desmond Bane,2020,2025,mp,2208.0,2205.0,3.79500001,True,4066320_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Isaiah Joe,2020,2021,g,41.0,41.0,0.0,True,4395702_stats.json,exact count
+Isaiah Joe,2020,2021,gs,1.0,1.0,0.0,True,4395702_stats.json,exact count
+Isaiah Joe,2020,2021,mp,381.3,383.0,2.25500001,True,4395702_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Isaiah Joe,2020,2022,g,55.0,55.0,0.0,True,4395702_stats.json,exact count
+Isaiah Joe,2020,2022,gs,1.0,1.0,0.0,True,4395702_stats.json,exact count
+Isaiah Joe,2020,2022,mp,610.5,609.0,3.02500001,True,4395702_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Isaiah Joe,2020,2023,g,73.0,73.0,0.0,True,4395702_stats.json,exact count
+Isaiah Joe,2020,2023,gs,10.0,10.0,0.0,True,4395702_stats.json,exact count
+Isaiah Joe,2020,2023,mp,1394.3000000000002,1395.0,4.01500001,True,4395702_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Isaiah Joe,2020,2024,g,78.0,78.0,0.0,True,4395702_stats.json,exact count
+Isaiah Joe,2020,2024,gs,1.0,1.0,0.0,True,4395702_stats.json,exact count
+Isaiah Joe,2020,2024,mp,1443.0,1445.0,4.29000001,True,4395702_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Isaiah Joe,2020,2025,g,74.0,74.0,0.0,True,4395702_stats.json,exact count
+Isaiah Joe,2020,2025,gs,16.0,16.0,0.0,True,4395702_stats.json,exact count
+Isaiah Joe,2020,2025,mp,1605.8,1604.0,4.07000001,True,4395702_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Scottie Barnes,2021,2022,g,74.0,74.0,0.0,True,4433134_stats.json,exact count
+Scottie Barnes,2021,2022,gs,74.0,74.0,0.0,True,4433134_stats.json,exact count
+Scottie Barnes,2021,2022,mp,2619.6,2617.0,4.07000001,True,4433134_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Scottie Barnes,2021,2023,g,77.0,77.0,0.0,True,4433134_stats.json,exact count
+Scottie Barnes,2021,2023,gs,76.0,76.0,0.0,True,4433134_stats.json,exact count
+Scottie Barnes,2021,2023,mp,2679.6,2678.0,4.23500001,True,4433134_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Scottie Barnes,2021,2024,g,60.0,60.0,0.0,True,4433134_stats.json,exact count
+Scottie Barnes,2021,2024,gs,60.0,60.0,0.0,True,4433134_stats.json,exact count
+Scottie Barnes,2021,2024,mp,2094.0,2094.0,3.3000000099999998,True,4433134_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Scottie Barnes,2021,2025,g,65.0,65.0,0.0,True,4433134_stats.json,exact count
+Scottie Barnes,2021,2025,gs,65.0,65.0,0.0,True,4433134_stats.json,exact count
+Scottie Barnes,2021,2025,mp,2132.0,2134.0,3.57500001,True,4433134_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Scottie Barnes,2021,2026,g,80.0,80.0,0.0,True,4433134_stats.json,exact count
+Scottie Barnes,2021,2026,gs,80.0,80.0,0.0,True,4433134_stats.json,exact count
+Scottie Barnes,2021,2026,mp,2680.0,2681.0,4.40000001,True,4433134_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Aaron Wiggins,2021,2022,g,50.0,50.0,0.0,True,4397183_stats.json,exact count
+Aaron Wiggins,2021,2022,gs,35.0,35.0,0.0,True,4397183_stats.json,exact count
+Aaron Wiggins,2021,2022,mp,1210.0,1209.0,2.75000001,True,4397183_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Aaron Wiggins,2021,2023,g,70.0,70.0,0.0,True,4397183_stats.json,exact count
+Aaron Wiggins,2021,2023,gs,14.0,14.0,0.0,True,4397183_stats.json,exact count
+Aaron Wiggins,2021,2023,mp,1295.0,1297.0,3.85000001,True,4397183_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Aaron Wiggins,2021,2024,g,78.0,78.0,0.0,True,4397183_stats.json,exact count
+Aaron Wiggins,2021,2024,gs,4.0,4.0,0.0,True,4397183_stats.json,exact count
+Aaron Wiggins,2021,2024,mp,1224.6,1228.0,4.29000001,True,4397183_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Aaron Wiggins,2021,2025,g,76.0,76.0,0.0,True,4397183_stats.json,exact count
+Aaron Wiggins,2021,2025,gs,26.0,26.0,0.0,True,4397183_stats.json,exact count
+Aaron Wiggins,2021,2025,mp,1740.3999999999999,1744.0,4.18000001,True,4397183_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes
+Aaron Wiggins,2021,2026,g,65.0,65.0,0.0,True,4397183_stats.json,exact count
+Aaron Wiggins,2021,2026,gs,21.0,21.0,0.0,True,4397183_stats.json,exact count
+Aaron Wiggins,2021,2026,mp,1417.0,1414.0,3.57500001,True,4397183_stats.json,MP comparison uses rounding bounds on games times one-decimal average minutes

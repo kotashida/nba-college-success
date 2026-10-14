@@ -1,0 +1,11 @@
+{
+  "review_date": "2026-10-13",
+  "sample_policy": "Post hoc source audit across 2018-2021, high/modest/low service, trades and the three final-test assumed nonparticipants; no fitting or performance changes.",
+  "sample_players": 15,
+  "identity_confirmed": 15,
+  "comparison_players": 12,
+  "season_field_comparisons": 174,
+  "disagreements": 0,
+  "unresolved_identities": [],
+  "limitations": "No independent VORP validation. One-decimal averages give only rounding-bounded MP checks. Missing/empty NBA endpoints are not proof of no NBA appearances. Does not establish historical source vintages or full-population accuracy."
+}

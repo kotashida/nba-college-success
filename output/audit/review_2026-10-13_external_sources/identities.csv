@@ -1,0 +1,16 @@
+player,draft_year,espn_id,provider_name,identity_confirmed,assumed_nonparticipant_in_original,status
+Jalen Brunson,2018,3934672,Jalen Brunson,True,False,identity confirmed
+Devonte' Graham,2018,3133601,Devonte' Graham,True,False,identity confirmed
+Shake Milton,2018,3915195,Shake Milton,True,False,identity confirmed
+Ja Morant,2019,4279888,Ja Morant,True,False,identity confirmed
+Cam Reddish,2019,4395627,Cam Reddish,True,False,identity confirmed
+Ignas Brazdeikis,2019,4397205,Ignas Brazdeikis,True,False,identity confirmed
+Anthony Edwards,2020,4594268,Anthony Edwards,True,False,identity confirmed
+Tyrese Haliburton,2020,4396993,Tyrese Haliburton,True,False,identity confirmed
+Desmond Bane,2020,4066320,Desmond Bane,True,False,identity confirmed
+Isaiah Joe,2020,4395702,Isaiah Joe,True,False,identity confirmed
+Justinian Jessup,2020,4066632,Justinian Jessup,True,True,"identity confirmed; no regular-season rows returned, not proof of nonparticipation"
+Scottie Barnes,2021,4433134,Scottie Barnes,True,False,identity confirmed
+Marcus Zegarowski,2021,4397036,Marcus Zegarowski,True,True,"identity confirmed; no regular-season rows returned, not proof of nonparticipation"
+Aaron Wiggins,2021,4397183,Aaron Wiggins,True,False,identity confirmed
+Balsa Koprivica,2021,4432829,Balsa Koprivica,True,True,"identity confirmed; no regular-season rows returned, not proof of nonparticipation"

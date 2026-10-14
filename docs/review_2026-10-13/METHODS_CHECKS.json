@@ -1,0 +1,215 @@
+{
+  "audit_date": "2026-10-13",
+  "scope": "Independent methods checks; no refitting, tuning, scoring substitutions or scientific mutations",
+  "n_original": 663,
+  "n_test": 98,
+  "independently_recalculated_selected_and_constant_pooled_scores": [
+    {
+      "target": "active5",
+      "model": "constant",
+      "n": 98,
+      "mse_or_brier": 2.278300435657799,
+      "rmse": 1.509404000146349,
+      "mae": 1.357464882571762,
+      "r2": -0.05500469547046771
+    },
+    {
+      "target": "active5",
+      "model": "selected",
+      "n": 98,
+      "mse_or_brier": 2.127563284702706,
+      "rmse": 1.4586169081368507,
+      "mae": 1.2446005338571584,
+      "r2": 0.014796635183954243
+    },
+    {
+      "target": "minutes5",
+      "model": "constant",
+      "n": 98,
+      "mse_or_brier": 12471446.842255618,
+      "rmse": 3531.493571034162,
+      "mae": 3068.7991183959007,
+      "r2": -0.0029276811095650945
+    },
+    {
+      "target": "minutes5",
+      "model": "selected",
+      "n": 98,
+      "mse_or_brier": 11857806.980770344,
+      "rmse": 3443.516658994166,
+      "mae": 2904.157435172177,
+      "r2": 0.046419953619599275
+    },
+    {
+      "target": "rotation5",
+      "model": "constant",
+      "n": 98,
+      "mse_or_brier": 0.23981654597733817
+    },
+    {
+      "target": "rotation5",
+      "model": "selected",
+      "n": 98,
+      "mse_or_brier": 0.22748900790863258
+    },
+    {
+      "target": "starter5",
+      "model": "constant",
+      "n": 98,
+      "mse_or_brier": 0.17231267257765184
+    },
+    {
+      "target": "starter5",
+      "model": "selected",
+      "n": 98,
+      "mse_or_brier": 0.1758416114999649
+    },
+    {
+      "target": "vorp5",
+      "model": "constant",
+      "n": 98,
+      "mse_or_brier": 13.358052123132508,
+      "rmse": 3.6548669090860897,
+      "mae": 2.6041331884483294,
+      "r2": -0.00233148825308116
+    },
+    {
+      "target": "vorp5",
+      "model": "selected",
+      "n": 98,
+      "mse_or_brier": 13.42255481561177,
+      "rmse": 3.6636805013008122,
+      "mae": 2.1742107707621674,
+      "r2": -0.007171496298648661
+    }
+  ],
+  "ascertainment_candidates": 12,
+  "candidate_latest_unique": true,
+  "candidate_embedded_pick_agreements": 11,
+  "candidate_embedded_pick_missing": 1,
+  "candidate_test_cohorts": [],
+  "college_duplicate_pid_year_rows": 0,
+  "source_pids_with_multiple_normalized_names": 383,
+  "prospect_pids_with_multiple_normalized_names": 4,
+  "2008_nonfreshmen_with_no_earlier_observed_records": 33,
+  "observed_history_by_cohort": {
+    "2008": {
+      "n": 44,
+      "no_prior": 44,
+      "max_prior": 0
+    },
+    "2009": {
+      "n": 45,
+      "no_prior": 3,
+      "max_prior": 1
+    },
+    "2010": {
+      "n": 51,
+      "no_prior": 11,
+      "max_prior": 2
+    },
+    "2011": {
+      "n": 46,
+      "no_prior": 7,
+      "max_prior": 3
+    },
+    "2012": {
+      "n": 50,
+      "no_prior": 9,
+      "max_prior": 4
+    },
+    "2013": {
+      "n": 45,
+      "no_prior": 7,
+      "max_prior": 3
+    },
+    "2014": {
+      "n": 46,
+      "no_prior": 9,
+      "max_prior": 4
+    },
+    "2015": {
+      "n": 45,
+      "no_prior": 13,
+      "max_prior": 4
+    },
+    "2016": {
+      "n": 43,
+      "no_prior": 14,
+      "max_prior": 3
+    },
+    "2017": {
+      "n": 50,
+      "no_prior": 19,
+      "max_prior": 3
+    },
+    "2018": {
+      "n": 49,
+      "no_prior": 19,
+      "max_prior": 3
+    },
+    "2019": {
+      "n": 51,
+      "no_prior": 14,
+      "max_prior": 4
+    },
+    "2020": {
+      "n": 48,
+      "no_prior": 17,
+      "max_prior": 3
+    },
+    "2021": {
+      "n": 50,
+      "no_prior": 18,
+      "max_prior": 3
+    }
+  },
+  "mature_training_counts": {
+    "2013": 44,
+    "2014": 89,
+    "2015": 140,
+    "2018": 281,
+    "2019": 327,
+    "2020": 372,
+    "2021": 415
+  },
+  "selected_test_prediction_ranges": {
+    "active5": {
+      "min": 2.834418561628032,
+      "max": 4.705499372818779
+    },
+    "minutes5": {
+      "min": 1318.389965353105,
+      "max": 8771.552841281964
+    },
+    "rotation5": {
+      "min": 0.0882667569858797,
+      "max": 0.7865719673458719
+    },
+    "starter5": {
+      "min": 0.0473630422510066,
+      "max": 0.7318002341375438
+    },
+    "vorp5": {
+      "min": -0.3391496194468879,
+      "max": 10.432872943553033
+    }
+  },
+  "selected_nested_active_predictions_outside_0_5": [
+    {
+      "player": "Wendell Carter Jr.",
+      "year": 2018,
+      "target": "active5",
+      "model": "selected",
+      "truth": 5.0,
+      "prediction": 5.217220702844531
+    }
+  ],
+  "assumed_nonparticipant_names_found_in_raw_nba_per_game_source": [],
+  "limitations": [
+    "The per-game absence check is same-origin consistency, not independent league-complete verification.",
+    "Primary URLs verify identities; they do not certify historical point-in-time snapshot availability.",
+    "12 candidates are manually reviewed ascertainment evidence, not an exhaustive automated identity audit.",
+    "Embedded eventual picks support review corroboration only and remain forbidden primary features."
+  ]
+}
